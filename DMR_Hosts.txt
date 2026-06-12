@@ -1,0 +1,8 @@
+#
+# DMR_Hosts.txt
+#
+# Generated: 2026-04-22 09:37:25 UTC
+# ...by the WPSD Hostfile Processor; Chip Cuccio - W0CHP
+#
+BM_TOMBOLPTT_HS	0000	dmr.tombolptt.my.id	passw0rd	62031
+BM_TOMBOLPTT_HS	0000	203.175.11.129	passw0rd	62031
