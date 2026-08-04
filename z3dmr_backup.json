@@ -1000,6 +1000,14 @@
       "city": "SEMARANG",
       "state": "JAWA TENGAH",
       "country": "INDONESIA"
+    },
+    {
+      "dmrId": 1025169,
+      "callsign": "G26UEF",
+      "name": "AHMADMUSTAQIM",
+      "city": "BATANG",
+      "state": "JAWA TENGAH",
+      "country": "INDONESIA"
     }
   ],
   "masterServers": [
