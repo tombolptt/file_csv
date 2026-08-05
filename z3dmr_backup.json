@@ -1008,6 +1008,14 @@
       "city": "BATANG",
       "state": "JAWA TENGAH",
       "country": "INDONESIA"
+    },
+    {
+      "dmrId": 1025170,
+      "callsign": "KH26EYS",
+      "name": "ERRY SUTA",
+      "city": "KOTAWARINGIN BARAT",
+      "state": "KALIMANTAN TENGAH",
+      "country": "INDONESIA"
     }
   ],
   "masterServers": [
