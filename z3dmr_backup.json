@@ -1016,6 +1016,14 @@
       "city": "KOTAWARINGIN BARAT",
       "state": "KALIMANTAN TENGAH",
       "country": "INDONESIA"
+    },
+    {
+      "dmrId": 1025171,
+      "callsign": "AB26YZY",
+      "name": "JAKA SATMOKO",
+      "city": "KULON PROGO",
+      "state": "DI YOGYAKARTA",
+      "country": "INDONESIA"
     }
   ],
   "masterServers": [
