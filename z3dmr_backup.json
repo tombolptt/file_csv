@@ -1024,6 +1024,14 @@
       "city": "KULON PROGO",
       "state": "DI YOGYAKARTA",
       "country": "INDONESIA"
+    },
+    {
+      "dmrId": 1025172,
+      "callsign": "B26KHO",
+      "name": "KUKUH WAHYONO",
+      "city": "ADMIN. JAKARTA PUSAT",
+      "state": "DKI JAKARTA",
+      "country": "INDONESIA"
     }
   ],
   "masterServers": [
