@@ -1032,6 +1032,14 @@
       "city": "ADMIN. JAKARTA PUSAT",
       "state": "DKI JAKARTA",
       "country": "INDONESIA"
+    },
+    {
+      "dmrId": 1025173,
+      "callsign": "BK26ATO",
+      "name": "BAYOLABAN",
+      "city": "MEDAN",
+      "state": "SUMATERA UTARA",
+      "country": "INDONESIA"
     }
   ],
   "masterServers": [
