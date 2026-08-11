@@ -1919,6 +1919,21 @@
       "has_valid_email": 0,
       "account_unvalidated": 0,
       "account_validation_status": "validated"
+    },
+    {
+      "name": "BAYOLABAN",
+      "fname": "BAYOLABAN",
+      "surname": "",
+      "country": "INDONESIA",
+      "callsign": "BK26ATO",
+      "city": "MEDAN",
+      "radio_id": 1025173,
+      "id": 1025173,
+      "state": "SUMATERA UTARA",
+      "has_valid_callsign": "1",
+      "has_valid_email": 0,
+      "account_unvalidated": 0,
+      "account_validation_status": "validated"
     }
   ]
 }
