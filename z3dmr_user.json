@@ -1934,6 +1934,21 @@
       "has_valid_email": 0,
       "account_unvalidated": 0,
       "account_validation_status": "validated"
+    },
+    {
+      "name": "PT MEIZZAHRA JAYASAKTI ENERGI",
+      "fname": "PT MEIZZAHRA JAYASAKTI ENERGI",
+      "surname": "",
+      "country": "INDONESIA",
+      "callsign": "B26MJE",
+      "city": "ADMIN. JAKARTA SELATAN",
+      "radio_id": 1025174,
+      "id": 1025174,
+      "state": "DKI JAKARTA",
+      "has_valid_callsign": "1",
+      "has_valid_email": 0,
+      "account_unvalidated": 0,
+      "account_validation_status": "validated"
     }
   ]
 }
