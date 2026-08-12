@@ -1040,6 +1040,14 @@
       "city": "MEDAN",
       "state": "SUMATERA UTARA",
       "country": "INDONESIA"
+    },
+    {
+      "dmrId": 1025174,
+      "callsign": "B26MJE",
+      "name": "PT MEIZZAHRA JAYASAKTI ENERGI",
+      "city": "ADMIN. JAKARTA SELATAN",
+      "state": "DKI JAKARTA",
+      "country": "INDONESIA"
     }
   ],
   "masterServers": [
