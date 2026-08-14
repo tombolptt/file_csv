@@ -1048,6 +1048,22 @@
       "city": "ADMIN. JAKARTA SELATAN",
       "state": "DKI JAKARTA",
       "country": "INDONESIA"
+    },
+    {
+      "dmrId": 1025175,
+      "callsign": "B26PAW",
+      "name": "PAULUS ARIESTIAN WIDJONARKO",
+      "city": "BEKASI",
+      "state": "JAWA BARAT",
+      "country": "INDONESIA"
+    },
+    {
+      "dmrId": 1025176,
+      "callsign": "DK26PSY",
+      "name": "PUTU SUARYANA",
+      "city": "DENPASAR",
+      "state": "BALI",
+      "country": "INDONESIA"
     }
   ],
   "masterServers": [
