@@ -1949,6 +1949,36 @@
       "has_valid_email": 0,
       "account_unvalidated": 0,
       "account_validation_status": "validated"
+    },
+    {
+      "name": "PAULUS ARIESTIAN WIDJONARKO",
+      "fname": "PAULUS ARIESTIAN WIDJONARKO",
+      "surname": "",
+      "country": "INDONESIA",
+      "callsign": "B26PAW",
+      "city": "BEKASI",
+      "radio_id": 1025175,
+      "id": 1025175,
+      "state": "JAWA BARAT",
+      "has_valid_callsign": "1",
+      "has_valid_email": 0,
+      "account_unvalidated": 0,
+      "account_validation_status": "validated"
+    },
+    {
+      "name": "PUTU SUARYANA",
+      "fname": "PUTU SUARYANA",
+      "surname": "",
+      "country": "INDONESIA",
+      "callsign": "DK26PSY",
+      "city": "DENPASAR",
+      "radio_id": 1025176,
+      "id": 1025176,
+      "state": "BALI",
+      "has_valid_callsign": "1",
+      "has_valid_email": 0,
+      "account_unvalidated": 0,
+      "account_validation_status": "validated"
     }
   ]
 }
