@@ -1994,6 +1994,21 @@
       "has_valid_email": 0,
       "account_unvalidated": 0,
       "account_validation_status": "validated"
+    },
+    {
+      "name": "GEDE",
+      "fname": "GEDE",
+      "surname": "",
+      "country": "INDONESIA",
+      "callsign": "BE26GDE",
+      "city": "LAMPUNG SELATAN",
+      "radio_id": 1025178,
+      "id": 1025178,
+      "state": "LAMPUNG",
+      "has_valid_callsign": "1",
+      "has_valid_email": 0,
+      "account_unvalidated": 0,
+      "account_validation_status": "validated"
     }
   ]
 }
