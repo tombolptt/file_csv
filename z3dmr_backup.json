@@ -1072,6 +1072,14 @@
       "city": "SLEMAN",
       "state": "DI YOGYAKARTA",
       "country": "INDONESIA"
+    },
+    {
+      "dmrId": 1025178,
+      "callsign": "BE26GDE",
+      "name": "GEDE",
+      "city": "LAMPUNG SELATAN",
+      "state": "LAMPUNG",
+      "country": "INDONESIA"
     }
   ],
   "masterServers": [
