@@ -1064,6 +1064,14 @@
       "city": "DENPASAR",
       "state": "BALI",
       "country": "INDONESIA"
+    },
+    {
+      "dmrId": 1025177,
+      "callsign": "AB26YBP",
+      "name": "TRI MEDIANTO",
+      "city": "SLEMAN",
+      "state": "DI YOGYAKARTA",
+      "country": "INDONESIA"
     }
   ],
   "masterServers": [
