@@ -1080,6 +1080,14 @@
       "city": "LAMPUNG SELATAN",
       "state": "LAMPUNG",
       "country": "INDONESIA"
+    },
+    {
+      "dmrId": 1025179,
+      "callsign": "KU26UNO",
+      "name": "SAYID UMAR AL HINDUAN",
+      "city": "TARAKAN",
+      "state": "KALIMANTAN UTARA",
+      "country": "INDONESIA"
     }
   ],
   "masterServers": [
