@@ -2009,6 +2009,21 @@
       "has_valid_email": 0,
       "account_unvalidated": 0,
       "account_validation_status": "validated"
+    },
+    {
+      "name": "SAYID UMAR AL HINDUAN",
+      "fname": "SAYID UMAR AL HINDUAN",
+      "surname": "",
+      "country": "INDONESIA",
+      "callsign": "KU26UNO",
+      "city": "TARAKAN",
+      "radio_id": 1025179,
+      "id": 1025179,
+      "state": "KALIMANTAN UTARA",
+      "has_valid_callsign": "1",
+      "has_valid_email": 0,
+      "account_unvalidated": 0,
+      "account_validation_status": "validated"
     }
   ]
 }
