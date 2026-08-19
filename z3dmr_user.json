@@ -2024,6 +2024,36 @@
       "has_valid_email": 0,
       "account_unvalidated": 0,
       "account_validation_status": "validated"
+    },
+    {
+      "name": "NANANG",
+      "fname": "NANANG",
+      "surname": "",
+      "country": "INDONESIA",
+      "callsign": "AB26NNG",
+      "city": "KULON PROGO",
+      "radio_id": 1025180,
+      "id": 1025180,
+      "state": "DI YOGYAKARTA",
+      "has_valid_callsign": "1",
+      "has_valid_email": 0,
+      "account_unvalidated": 0,
+      "account_validation_status": "validated"
+    },
+    {
+      "name": "ABDUL RAHMAN",
+      "fname": "ABDUL RAHMAN",
+      "surname": "",
+      "country": "INDONESIA",
+      "callsign": "B26BCA",
+      "city": "ADMIN. JAKARTA UTARA",
+      "radio_id": 1025181,
+      "id": 1025181,
+      "state": "DKI JAKARTA",
+      "has_valid_callsign": "1",
+      "has_valid_email": 0,
+      "account_unvalidated": 0,
+      "account_validation_status": "validated"
     }
   ]
 }
