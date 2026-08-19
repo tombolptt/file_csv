@@ -1088,6 +1088,22 @@
       "city": "TARAKAN",
       "state": "KALIMANTAN UTARA",
       "country": "INDONESIA"
+    },
+    {
+      "dmrId": 1025180,
+      "callsign": "AB26NNG",
+      "name": "NANANG",
+      "city": "KULON PROGO",
+      "state": "DI YOGYAKARTA",
+      "country": "INDONESIA"
+    },
+    {
+      "dmrId": 1025181,
+      "callsign": "B26BCA",
+      "name": "ABDUL RAHMAN",
+      "city": "ADMIN. JAKARTA UTARA",
+      "state": "DKI JAKARTA",
+      "country": "INDONESIA"
     }
   ],
   "masterServers": [
