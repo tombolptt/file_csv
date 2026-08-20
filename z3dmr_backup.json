@@ -1104,6 +1104,14 @@
       "city": "ADMIN. JAKARTA UTARA",
       "state": "DKI JAKARTA",
       "country": "INDONESIA"
+    },
+    {
+      "dmrId": 1025182,
+      "callsign": "D26BIN",
+      "name": "BENI NUGRAHA",
+      "city": "BANDUNG BARAT",
+      "state": "JAWA BARAT",
+      "country": "INDONESIA"
     }
   ],
   "masterServers": [
