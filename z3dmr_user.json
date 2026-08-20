@@ -2054,6 +2054,21 @@
       "has_valid_email": 0,
       "account_unvalidated": 0,
       "account_validation_status": "validated"
+    },
+    {
+      "name": "BENI NUGRAHA",
+      "fname": "BENI NUGRAHA",
+      "surname": "",
+      "country": "INDONESIA",
+      "callsign": "D26BIN",
+      "city": "BANDUNG BARAT",
+      "radio_id": 1025182,
+      "id": 1025182,
+      "state": "JAWA BARAT",
+      "has_valid_callsign": "1",
+      "has_valid_email": 0,
+      "account_unvalidated": 0,
+      "account_validation_status": "validated"
     }
   ]
 }
