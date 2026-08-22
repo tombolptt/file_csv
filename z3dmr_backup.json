@@ -1112,6 +1112,30 @@
       "city": "BANDUNG BARAT",
       "state": "JAWA BARAT",
       "country": "INDONESIA"
+    },
+    {
+      "dmrId": 1025183,
+      "callsign": "B26ISW",
+      "name": "IWAN SETIAWAN",
+      "city": "ADMIN. JAKARTA UTARA",
+      "state": "DKI JAKARTA",
+      "country": "INDONESIA"
+    },
+    {
+      "dmrId": 1025184,
+      "callsign": "B26ADN",
+      "name": "AHMAD SOFYAN",
+      "city": "ADMIN. JAKARTA SELATAN",
+      "state": "DKI JAKARTA",
+      "country": "INDONESIA"
+    },
+    {
+      "dmrId": 1025185,
+      "callsign": "KT26ANR",
+      "name": "ANSAR",
+      "city": "SAMARINDA",
+      "state": "KALIMANTAN TIMUR",
+      "country": "INDONESIA"
     }
   ],
   "masterServers": [
