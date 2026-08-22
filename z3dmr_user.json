@@ -2069,6 +2069,51 @@
       "has_valid_email": 0,
       "account_unvalidated": 0,
       "account_validation_status": "validated"
+    },
+    {
+      "name": "IWAN SETIAWAN",
+      "fname": "IWAN SETIAWAN",
+      "surname": "",
+      "country": "INDONESIA",
+      "callsign": "B26ISW",
+      "city": "ADMIN. JAKARTA UTARA",
+      "radio_id": 1025183,
+      "id": 1025183,
+      "state": "DKI JAKARTA",
+      "has_valid_callsign": "1",
+      "has_valid_email": 0,
+      "account_unvalidated": 0,
+      "account_validation_status": "validated"
+    },
+    {
+      "name": "AHMAD SOFYAN",
+      "fname": "AHMAD SOFYAN",
+      "surname": "",
+      "country": "INDONESIA",
+      "callsign": "B26ADN",
+      "city": "ADMIN. JAKARTA SELATAN",
+      "radio_id": 1025184,
+      "id": 1025184,
+      "state": "DKI JAKARTA",
+      "has_valid_callsign": "1",
+      "has_valid_email": 0,
+      "account_unvalidated": 0,
+      "account_validation_status": "validated"
+    },
+    {
+      "name": "ANSAR",
+      "fname": "ANSAR",
+      "surname": "",
+      "country": "INDONESIA",
+      "callsign": "KT26ANR",
+      "city": "SAMARINDA",
+      "radio_id": 1025185,
+      "id": 1025185,
+      "state": "KALIMANTAN TIMUR",
+      "has_valid_callsign": "1",
+      "has_valid_email": 0,
+      "account_unvalidated": 0,
+      "account_validation_status": "validated"
     }
   ]
 }
