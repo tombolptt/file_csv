@@ -1136,6 +1136,14 @@
       "city": "SAMARINDA",
       "state": "KALIMANTAN TIMUR",
       "country": "INDONESIA"
+    },
+    {
+      "dmrId": 1025186,
+      "callsign": "B26VIK",
+      "name": "AVIK HARIYANA",
+      "city": "BEKASI",
+      "state": "JAWA BARAT",
+      "country": "INDONESIA"
     }
   ],
   "masterServers": [
