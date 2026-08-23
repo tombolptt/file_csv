@@ -2114,6 +2114,21 @@
       "has_valid_email": 0,
       "account_unvalidated": 0,
       "account_validation_status": "validated"
+    },
+    {
+      "name": "AVIK HARIYANA",
+      "fname": "AVIK HARIYANA",
+      "surname": "",
+      "country": "INDONESIA",
+      "callsign": "B26VIK",
+      "city": "BEKASI",
+      "radio_id": 1025186,
+      "id": 1025186,
+      "state": "JAWA BARAT",
+      "has_valid_callsign": "1",
+      "has_valid_email": 0,
+      "account_unvalidated": 0,
+      "account_validation_status": "validated"
     }
   ]
 }
