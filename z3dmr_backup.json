@@ -1144,6 +1144,14 @@
       "city": "BEKASI",
       "state": "JAWA BARAT",
       "country": "INDONESIA"
+    },
+    {
+      "dmrId": 1025187,
+      "callsign": "DK26ABD",
+      "name": "BAGUS DEWANGKARA",
+      "city": "DENPASAR",
+      "state": "BALI",
+      "country": "INDONESIA"
     }
   ],
   "masterServers": [
