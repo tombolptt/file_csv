@@ -42,6 +42,14 @@
       "country": "INDONESIA"
     },
     {
+      "dmrId": 1025005,
+      "callsign": "KT26SVX",
+      "name": "LINK SVX TOMBOLPTT",
+      "city": "BALIKPAPAN",
+      "state": "KALIMANTAN TIMUR",
+      "country": "INDONESIA"
+    },
+    {
       "dmrId": 1025006,
       "callsign": "BM25ABH",
       "name": "RANGGA FADLINUR",
@@ -1151,14 +1159,6 @@
       "name": "BAGUS DEWANGKARA",
       "city": "DENPASAR",
       "state": "BALI",
-      "country": "INDONESIA"
-    },
-    {
-      "dmrId": 1025188,
-      "callsign": "KT26SVX",
-      "name": "LINK SVX TOMBOLPTT",
-      "city": "BALIKPAPAN",
-      "state": "KALIMANTAN TIMUR",
       "country": "INDONESIA"
     }
   ],
