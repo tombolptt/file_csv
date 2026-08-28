@@ -2144,6 +2144,21 @@
       "has_valid_email": 0,
       "account_unvalidated": 0,
       "account_validation_status": "validated"
+    },
+    {
+      "name": "LINK SVX TOMBOLPTT",
+      "fname": "LINK SVX TOMBOLPTT",
+      "surname": "",
+      "country": "INDONESIA",
+      "callsign": "KT26SVX",
+      "city": "BALIKPAPAN",
+      "radio_id": 1025188,
+      "id": 1025188,
+      "state": "KALIMANTAN TIMUR",
+      "has_valid_callsign": "1",
+      "has_valid_email": 0,
+      "account_unvalidated": 0,
+      "account_validation_status": "validated"
     }
   ]
 }
