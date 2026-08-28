@@ -1152,6 +1152,14 @@
       "city": "DENPASAR",
       "state": "BALI",
       "country": "INDONESIA"
+    },
+    {
+      "dmrId": 1025188,
+      "callsign": "KT26SVX",
+      "name": "LINK SVX TOMBOLPTT",
+      "city": "BALIKPAPAN",
+      "state": "KALIMANTAN TIMUR",
+      "country": "INDONESIA"
     }
   ],
   "masterServers": [
