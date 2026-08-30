@@ -10,1137 +10,9 @@
   ],
   "contacts": [
     {
-      "dmrId": 1025187,
-      "callsign": "DK26ABD",
-      "name": "BAGUS DEWANGKARA",
-      "city": "DENPASAR",
-      "state": "BALI",
-      "country": "INDONESIA"
-    },
-    {
-      "dmrId": 1025186,
-      "callsign": "B26VIK",
-      "name": "AVIK HARIYANA",
-      "city": "BEKASI",
-      "state": "JAWA BARAT",
-      "country": "INDONESIA"
-    },
-    {
-      "dmrId": 1025185,
-      "callsign": "KT26ANR",
-      "name": "ANSAR",
-      "city": "SAMARINDA",
-      "state": "KALIMANTAN TIMUR",
-      "country": "INDONESIA"
-    },
-    {
-      "dmrId": 1025184,
-      "callsign": "B26ADN",
-      "name": "AHMAD SOFYAN",
-      "city": "ADMIN. JAKARTA SELATAN",
-      "state": "DKI JAKARTA",
-      "country": "INDONESIA"
-    },
-    {
-      "dmrId": 1025183,
-      "callsign": "B26ISW",
-      "name": "IWAN SETIAWAN",
-      "city": "ADMIN. JAKARTA UTARA",
-      "state": "DKI JAKARTA",
-      "country": "INDONESIA"
-    },
-    {
-      "dmrId": 1025182,
-      "callsign": "D26BIN",
-      "name": "BENI NUGRAHA",
-      "city": "BANDUNG BARAT",
-      "state": "JAWA BARAT",
-      "country": "INDONESIA"
-    },
-    {
-      "dmrId": 1025181,
-      "callsign": "B26BCA",
-      "name": "ABDUL RAHMAN",
-      "city": "ADMIN. JAKARTA UTARA",
-      "state": "DKI JAKARTA",
-      "country": "INDONESIA"
-    },
-    {
-      "dmrId": 1025180,
-      "callsign": "AB26NNG",
-      "name": "NANANG",
-      "city": "KULON PROGO",
-      "state": "DI YOGYAKARTA",
-      "country": "INDONESIA"
-    },
-    {
-      "dmrId": 1025179,
-      "callsign": "KU26UNO",
-      "name": "SAYID UMAR AL HINDUAN",
-      "city": "TARAKAN",
-      "state": "KALIMANTAN UTARA",
-      "country": "INDONESIA"
-    },
-    {
-      "dmrId": 1025178,
-      "callsign": "BE26GDE",
-      "name": "GEDE",
-      "city": "LAMPUNG SELATAN",
-      "state": "LAMPUNG",
-      "country": "INDONESIA"
-    },
-    {
-      "dmrId": 1025177,
-      "callsign": "AB26YBP",
-      "name": "TRI MEDIANTO",
-      "city": "SLEMAN",
-      "state": "DI YOGYAKARTA",
-      "country": "INDONESIA"
-    },
-    {
-      "dmrId": 1025176,
-      "callsign": "DK26PSY",
-      "name": "PUTU SUARYANA",
-      "city": "DENPASAR",
-      "state": "BALI",
-      "country": "INDONESIA"
-    },
-    {
-      "dmrId": 1025175,
-      "callsign": "B26PAW",
-      "name": "PAULUS ARIESTIAN WIDJONARKO",
-      "city": "BEKASI",
-      "state": "JAWA BARAT",
-      "country": "INDONESIA"
-    },
-    {
-      "dmrId": 1025174,
-      "callsign": "B26MJE",
-      "name": "PT MEIZZAHRA JAYASAKTI ENERGI",
-      "city": "ADMIN. JAKARTA SELATAN",
-      "state": "DKI JAKARTA",
-      "country": "INDONESIA"
-    },
-    {
-      "dmrId": 1025173,
-      "callsign": "BK26ATO",
-      "name": "BAYOLABAN",
-      "city": "MEDAN",
-      "state": "SUMATERA UTARA",
-      "country": "INDONESIA"
-    },
-    {
-      "dmrId": 1025172,
-      "callsign": "B26KHO",
-      "name": "KUKUH WAHYONO",
-      "city": "ADMIN. JAKARTA PUSAT",
-      "state": "DKI JAKARTA",
-      "country": "INDONESIA"
-    },
-    {
-      "dmrId": 1025171,
-      "callsign": "AB26YZY",
-      "name": "JAKA SATMOKO",
-      "city": "KULON PROGO",
-      "state": "DI YOGYAKARTA",
-      "country": "INDONESIA"
-    },
-    {
-      "dmrId": 1025170,
-      "callsign": "KH26EYS",
-      "name": "ERRY SUTA",
-      "city": "KOTAWARINGIN BARAT",
-      "state": "KALIMANTAN TENGAH",
-      "country": "INDONESIA"
-    },
-    {
-      "dmrId": 1025169,
-      "callsign": "G26UEF",
-      "name": "AHMADMUSTAQIM",
-      "city": "BATANG",
-      "state": "JAWA TENGAH",
-      "country": "INDONESIA"
-    },
-    {
-      "dmrId": 1025168,
-      "callsign": "H26BBH",
-      "name": "ROBBY AGUNG WIJAYA",
-      "city": "SEMARANG",
-      "state": "JAWA TENGAH",
-      "country": "INDONESIA"
-    },
-    {
-      "dmrId": 1025167,
-      "callsign": "DA26DYS",
-      "name": "DWY SISHADI",
-      "city": "BANJARMASIN",
-      "state": "KALIMANTAN SELATAN",
-      "country": "INDONESIA"
-    },
-    {
-      "dmrId": 1025166,
-      "callsign": "BB26BYQ",
-      "name": "AGUNG DWI CAHYADU",
-      "city": "SIBOLGA",
-      "state": "SUMATERA UTARA",
-      "country": "INDONESIA"
-    },
-    {
-      "dmrId": 1025165,
-      "callsign": "KU26UFZ",
-      "name": "SOFIYAN",
-      "city": "TARAKAN",
-      "state": "KALIMANTAN UTARA",
-      "country": "INDONESIA"
-    },
-    {
-      "dmrId": 1025164,
-      "callsign": "B26SFD",
-      "name": "YONI RUSDIANA",
-      "city": "TANGERANG",
-      "state": "BANTEN",
-      "country": "INDONESIA"
-    },
-    {
-      "dmrId": 1025163,
-      "callsign": "N26TZH",
-      "name": "GIGIH ADI PRAYOGO",
-      "city": "MALANG",
-      "state": "JAWA TIMUR",
-      "country": "INDONESIA"
-    },
-    {
-      "dmrId": 1025162,
-      "callsign": "A26BCE",
-      "name": "REDHA HERDIANTO",
-      "city": "SERANG",
-      "state": "BANTEN",
-      "country": "INDONESIA"
-    },
-    {
-      "dmrId": 1025161,
-      "callsign": "B26AHK",
-      "name": "FAKICH UDIN",
-      "city": "BEKASI",
-      "state": "JAWA BARAT",
-      "country": "INDONESIA"
-    },
-    {
-      "dmrId": 1025160,
-      "callsign": "DK26AFM",
-      "name": "I PUTU ADI YANA",
-      "city": "JEMBRANA",
-      "state": "BALI",
-      "country": "INDONESIA"
-    },
-    {
-      "dmrId": 1025159,
-      "callsign": "W26BEY",
-      "name": "ACHOMADIN",
-      "city": "SIDOARJO",
-      "state": "JAWA TIMUR",
-      "country": "INDONESIA"
-    },
-    {
-      "dmrId": 1025158,
-      "callsign": "AD26BDU",
-      "name": "ARYAWAN BAYU WERDANI",
-      "city": "KLATEN",
-      "state": "JAWA TENGAH",
-      "country": "INDONESIA"
-    },
-    {
-      "dmrId": 1025157,
-      "callsign": "W26AFS",
-      "name": "BIMO PARAMA ARTHA",
-      "city": "SIDOARJO",
-      "state": "JAWA TIMUR",
-      "country": "INDONESIA"
-    },
-    {
-      "dmrId": 1025156,
-      "callsign": "AB26IWB",
-      "name": "IRWAN BRAMANTYO",
-      "city": "YOGYAKARTA",
-      "state": "DI YOGYAKARTA",
-      "country": "INDONESIA"
-    },
-    {
-      "dmrId": 1025155,
-      "callsign": "B26AMC",
-      "name": "ASNAMIL CHOLIS",
-      "city": "BEKASI",
-      "state": "JAWA BARAT",
-      "country": "INDONESIA"
-    },
-    {
-      "dmrId": 1025154,
-      "callsign": "AB26DKA",
-      "name": "DEDY KURNIA",
-      "city": "SLEMAN",
-      "state": "DI YOGYAKARTA",
-      "country": "INDONESIA"
-    },
-    {
-      "dmrId": 1025153,
-      "callsign": "KT26MEG",
-      "name": "AYUS",
-      "city": "PENAJAM PASER UTARA",
-      "state": "KALIMANTAN TIMUR",
-      "country": "INDONESIA"
-    },
-    {
-      "dmrId": 1025152,
-      "callsign": "PB26BCC",
-      "name": "JHONAL",
-      "city": "MANOKWARI",
-      "state": "PAPUA BARAT",
-      "country": "INDONESIA"
-    },
-    {
-      "dmrId": 1025151,
-      "callsign": "H26DBG",
-      "name": "ILYAS",
-      "city": "SEMARANG",
-      "state": "JAWA TENGAH",
-      "country": "INDONESIA"
-    },
-    {
-      "dmrId": 1025150,
-      "callsign": "AA26SYP",
-      "name": "SURYA PRATAMA",
-      "city": "KEBUMEN",
-      "state": "JAWA TENGAH",
-      "country": "INDONESIA"
-    },
-    {
-      "dmrId": 1025149,
-      "callsign": "DD26HRN",
-      "name": "HARINUDDIN",
-      "city": "MAROS",
-      "state": "SULAWESI SELATAN",
-      "country": "INDONESIA"
-    },
-    {
-      "dmrId": 1025148,
-      "callsign": "N26THO",
-      "name": "TOTO HARIYANTO",
-      "city": "MALANG",
-      "state": "JAWA TIMUR",
-      "country": "INDONESIA"
-    },
-    {
-      "dmrId": 1025147,
-      "callsign": "Z26AXR",
-      "name": "PURNAMA",
-      "city": "TASIKMALAYA",
-      "state": "JAWA BARAT",
-      "country": "INDONESIA"
-    },
-    {
-      "dmrId": 1025146,
-      "callsign": "BK26HQN",
-      "name": "HENDRAWAN WIJAYA",
-      "city": "MEDAN",
-      "state": "SUMATERA UTARA",
-      "country": "INDONESIA"
-    },
-    {
-      "dmrId": 1025145,
-      "callsign": "B26BXR",
-      "name": "DHETYO DWIYOGA F",
-      "city": "ADMIN. JAKARTA PUSAT",
-      "state": "DKI JAKARTA",
-      "country": "INDONESIA"
-    },
-    {
-      "dmrId": 1025144,
-      "callsign": "BH26AMT",
-      "name": "SOLIKIN",
-      "city": "MUARO JAMBI",
-      "state": "JAMBI",
-      "country": "INDONESIA"
-    },
-    {
-      "dmrId": 1025143,
-      "callsign": "B26TKR",
-      "name": "TAUFIK KUSNANDAR",
-      "city": "TANGERANG SELATAN",
-      "state": "BANTEN",
-      "country": "INDONESIA"
-    },
-    {
-      "dmrId": 1025142,
-      "callsign": "B26NRH",
-      "name": "NOER FADILLAH",
-      "city": "ADMIN. JAKARTA BARAT",
-      "state": "DKI JAKARTA",
-      "country": "INDONESIA"
-    },
-    {
-      "dmrId": 1025141,
-      "callsign": "AA26MHM",
-      "name": "MUHASIM",
-      "city": "PURWOREJO",
-      "state": "JAWA TENGAH",
-      "country": "INDONESIA"
-    },
-    {
-      "dmrId": 1025140,
-      "callsign": "BK26HXJ",
-      "name": "FAJRIN NUR M",
-      "city": "MEDAN",
-      "state": "SUMATERA UTARA",
-      "country": "INDONESIA"
-    },
-    {
-      "dmrId": 1025139,
-      "callsign": "B26THE",
-      "name": "ARINTOKO NUGROHO",
-      "city": "ADMIN. JAKARTA BARAT",
-      "state": "DKI JAKARTA",
-      "country": "INDONESIA"
-    },
-    {
-      "dmrId": 1025138,
-      "callsign": "DK26XNY",
-      "name": "MADE SUGIARTA",
-      "city": "BULELENG",
-      "state": "BALI",
-      "country": "INDONESIA"
-    },
-    {
-      "dmrId": 1025137,
-      "callsign": "KT26AKJ",
-      "name": "IKSAN",
-      "city": "PENAJAM PASER UTARA",
-      "state": "KALIMANTAN TIMUR",
-      "country": "INDONESIA"
-    },
-    {
-      "dmrId": 1025136,
-      "callsign": "PB26ACX",
-      "name": "TRI BUDI IRIANTO",
-      "city": "SORONG",
-      "state": "PAPUA BARAT DAYA",
-      "country": "INDONESIA"
-    },
-    {
-      "dmrId": 1025134,
-      "callsign": "KT26ASD",
-      "name": "OKKY SATRYA NUGRAHA",
-      "city": "BALIKPAPAN",
-      "state": "KALIMANTAN TIMUR",
-      "country": "INDONESIA"
-    },
-    {
-      "dmrId": 1025133,
-      "callsign": "KT26MDP",
-      "name": "SULIM",
-      "city": "PENAJAM PASER UTARA",
-      "state": "KALIMANTAN TIMUR",
-      "country": "INDONESIA"
-    },
-    {
-      "dmrId": 1025132,
-      "callsign": "KT26AKP",
-      "name": "SUHADI",
-      "city": "SAMARINDA",
-      "state": "KALIMANTAN TIMUR",
-      "country": "INDONESIA"
-    },
-    {
-      "dmrId": 1025131,
-      "callsign": "BP26KAF",
-      "name": "SUPRIHANDOYO",
-      "city": "KARIMUN",
-      "state": "KEPULAUAN RIAU",
-      "country": "INDONESIA"
-    },
-    {
-      "dmrId": 1025130,
-      "callsign": "B26DVA",
-      "name": "DOVIANDA ARIANDANU",
-      "city": "TANGERANG",
-      "state": "BANTEN",
-      "country": "INDONESIA"
-    },
-    {
-      "dmrId": 1025129,
-      "callsign": "KT26AWB",
-      "name": "ARIES WIBOWO",
-      "city": "BALIKPAPAN",
-      "state": "KALIMANTAN TIMUR",
-      "country": "INDONESIA"
-    },
-    {
-      "dmrId": 1025128,
-      "callsign": "L26ART",
-      "name": "MUFTI KUSUMA ADI",
-      "city": "SURABAYA",
-      "state": "JAWA TIMUR",
-      "country": "INDONESIA"
-    },
-    {
-      "dmrId": 1025127,
-      "callsign": "D26HPI",
-      "name": "HERMAN PERMADI",
-      "city": "BANDUNG BARAT",
-      "state": "JAWA BARAT",
-      "country": "INDONESIA"
-    },
-    {
-      "dmrId": 1025126,
-      "callsign": "KT26MAO",
-      "name": "AMIN",
-      "city": "PENAJAM PASER UTARA",
-      "state": "KALIMANTAN TIMUR",
-      "country": "INDONESIA"
-    },
-    {
-      "dmrId": 1025125,
-      "callsign": "BK26CIL",
-      "name": "IWAN BUDIYANTO",
-      "city": "PEMATANGSIANTAR",
-      "state": "SUMATERA UTARA",
-      "country": "INDONESIA"
-    },
-    {
-      "dmrId": 1025124,
-      "callsign": "PB26SUD",
-      "name": "SUUD",
-      "city": "MANOKWARI",
-      "state": "PAPUA BARAT",
-      "country": "INDONESIA"
-    },
-    {
-      "dmrId": 1025123,
-      "callsign": "BP26BDX",
-      "name": "NING",
-      "city": "BATAM",
-      "state": "KEPULAUAN RIAU",
-      "country": "INDONESIA"
-    },
-    {
-      "dmrId": 1025122,
-      "callsign": "BP26OLI",
-      "name": "SUHARSIH",
-      "city": "BATAM",
-      "state": "KEPULAUAN RIAU",
-      "country": "INDONESIA"
-    },
-    {
-      "dmrId": 1025121,
-      "callsign": "AB26RAW",
-      "name": "RUSNAWAN AGUNG WIJAYA",
-      "city": "YOGYAKARTA",
-      "state": "DI YOGYAKARTA",
-      "country": "INDONESIA"
-    },
-    {
-      "dmrId": 1025120,
-      "callsign": "AB26YEM",
-      "name": "YOSEPH EKO MARTONO",
-      "city": "YOGYAKARTA",
-      "state": "DI YOGYAKARTA",
-      "country": "INDONESIA"
-    },
-    {
-      "dmrId": 1025119,
-      "callsign": "Z26ASS",
-      "name": "ASEPSUWITO",
-      "city": "TASIKMALAYA",
-      "state": "JAWA BARAT",
-      "country": "INDONESIA"
-    },
-    {
-      "dmrId": 1025118,
-      "callsign": "PB26ATP",
-      "name": "ATOK PRASETYO",
-      "city": "SORONG",
-      "state": "PAPUA BARAT DAYA",
-      "country": "INDONESIA"
-    },
-    {
-      "dmrId": 1025117,
-      "callsign": "Z26WHY",
-      "name": "MAMAT RUHIMAT",
-      "city": "TASIKMALAYA",
-      "state": "JAWA BARAT",
-      "country": "INDONESIA"
-    },
-    {
-      "dmrId": 1025116,
-      "callsign": "T26SAL",
-      "name": "SALMON MUSTAFA",
-      "city": "KARAWANG",
-      "state": "JAWA BARAT",
-      "country": "INDONESIA"
-    },
-    {
-      "dmrId": 1025115,
-      "callsign": "D26SUS",
-      "name": "UUS IDRUS",
-      "city": "BANDUNG",
-      "state": "JAWA BARAT",
-      "country": "INDONESIA"
-    },
-    {
-      "dmrId": 1025114,
-      "callsign": "D26WDY",
-      "name": "WENDY PRANANDHA",
-      "city": "BANDUNG",
-      "state": "JAWA BARAT",
-      "country": "INDONESIA"
-    },
-    {
-      "dmrId": 1025113,
-      "callsign": "R26TIA",
-      "name": "MUTIA",
-      "city": "PURBALINGGA",
-      "state": "JAWA TENGAH",
-      "country": "INDONESIA"
-    },
-    {
-      "dmrId": 1025112,
-      "callsign": "BM26NPC",
-      "name": "SUTAN PL",
-      "city": "PEKANBARU",
-      "state": "RIAU",
-      "country": "INDONESIA"
-    },
-    {
-      "dmrId": 1025111,
-      "callsign": "D26AYV",
-      "name": "ANANDA YUSUF VALERIAN",
-      "city": "BANDUNG BARAT",
-      "state": "JAWA BARAT",
-      "country": "INDONESIA"
-    },
-    {
-      "dmrId": 1025110,
-      "callsign": "W26CNF",
-      "name": "ABDULLAH CHANIF",
-      "city": "GRESIK",
-      "state": "JAWA TIMUR",
-      "country": "INDONESIA"
-    },
-    {
-      "dmrId": 1025109,
-      "callsign": "DK26AGU",
-      "name": "I WAYAN PONGKI SETIAWAN",
-      "city": "BADUNG",
-      "state": "BALI",
-      "country": "INDONESIA"
-    },
-    {
-      "dmrId": 1025108,
-      "callsign": "K26MRK",
-      "name": "MUHAMMAD NANANG RIZALDI",
-      "city": "JEPARA",
-      "state": "JAWA TENGAH",
-      "country": "INDONESIA"
-    },
-    {
-      "dmrId": 1025107,
-      "callsign": "L26BRB",
-      "name": "HAFID AKBAR",
-      "city": "SURABAYA",
-      "state": "JAWA TIMUR",
-      "country": "INDONESIA"
-    },
-    {
-      "dmrId": 1025106,
-      "callsign": "G26SKR",
-      "name": "FAHMI NURHIKMAH",
-      "city": "TEGAL",
-      "state": "JAWA TENGAH",
-      "country": "INDONESIA"
-    },
-    {
-      "dmrId": 1025104,
-      "callsign": "AA26CHJ",
-      "name": "SUDIHARTO",
-      "city": "KEBUMEN",
-      "state": "JAWA TENGAH",
-      "country": "INDONESIA"
-    },
-    {
-      "dmrId": 1025103,
-      "callsign": "BK26HMY",
-      "name": "MUHAMMAD ZALDI",
-      "city": "MEDAN",
-      "state": "SUMATERA UTARA",
-      "country": "INDONESIA"
-    },
-    {
-      "dmrId": 1025102,
-      "callsign": "AB26YAY",
-      "name": "ANDA WIJANARKO",
-      "city": "SLEMAN",
-      "state": "DI YOGYAKARTA",
-      "country": "INDONESIA"
-    },
-    {
-      "dmrId": 1025101,
-      "callsign": "AB26VLE",
-      "name": "ANTHONI CAHYO NS",
-      "city": "BANTUL",
-      "state": "DI YOGYAKARTA",
-      "country": "INDONESIA"
-    },
-    {
-      "dmrId": 1025100,
-      "callsign": "L26AIV",
-      "name": "SARJONO",
-      "city": "SURABAYA",
-      "state": "JAWA TIMUR",
-      "country": "INDONESIA"
-    },
-    {
-      "dmrId": 1025099,
-      "callsign": "E26BNY",
-      "name": "GINANJAR EKO RUSSETYADI",
-      "city": "CIREBON",
-      "state": "JAWA BARAT",
-      "country": "INDONESIA"
-    },
-    {
-      "dmrId": 1025098,
-      "callsign": "E26EKP",
-      "name": "ANWARI",
-      "city": "CIREBON",
-      "state": "JAWA BARAT",
-      "country": "INDONESIA"
-    },
-    {
-      "dmrId": 1025097,
-      "callsign": "DB26RAM",
-      "name": "ANTONIUS MARAMIS",
-      "city": "TOMOHON",
-      "state": "SULAWESI UTARA",
-      "country": "INDONESIA"
-    },
-    {
-      "dmrId": 1025096,
-      "callsign": "K26JNL",
-      "name": "BUDI SANTOSA",
-      "city": "BLORA",
-      "state": "JAWA TENGAH",
-      "country": "INDONESIA"
-    },
-    {
-      "dmrId": 1025095,
-      "callsign": "H26HZZ",
-      "name": "HARRIS",
-      "city": "SEMARANG",
-      "state": "JAWA TENGAH",
-      "country": "INDONESIA"
-    },
-    {
-      "dmrId": 1025090,
-      "callsign": "BK26HHD",
-      "name": "ZULKARNAIN",
-      "city": "MEDAN",
-      "state": "SUMATERA UTARA",
-      "country": "INDONESIA"
-    },
-    {
-      "dmrId": 1025089,
-      "callsign": "D26RZL",
-      "name": "SYAFRIZAL AFFARDI RUSLI",
-      "city": "BANDUNG BARAT",
-      "state": "JAWA BARAT",
-      "country": "INDONESIA"
-    },
-    {
-      "dmrId": 1025088,
-      "callsign": "B26BFD",
-      "name": "DIDIK NURHADI",
-      "city": "ADMIN. JAKARTA SELATAN",
-      "state": "DKI JAKARTA",
-      "country": "INDONESIA"
-    },
-    {
-      "dmrId": 1025085,
-      "callsign": "DK26BBU",
-      "name": "HIRMAWAN TIRTA YUDHA",
-      "city": "BULELENG",
-      "state": "BALI",
-      "country": "INDONESIA"
-    },
-    {
-      "dmrId": 1025084,
-      "callsign": "DD26DPD",
-      "name": "MUDDASSIR",
-      "city": "KEPULAUAN SELAYAR",
-      "state": "SULAWESI SELATAN",
-      "country": "INDONESIA"
-    },
-    {
-      "dmrId": 1025083,
-      "callsign": "AA26BTP",
-      "name": "CAHYONO DWIKARTIPUTRA",
-      "city": "MAGELANG",
-      "state": "JAWA TENGAH",
-      "country": "INDONESIA"
-    },
-    {
-      "dmrId": 1025081,
-      "callsign": "Z26IXM",
-      "name": "DIAN HERMAWAN",
-      "city": "CIAMIS",
-      "state": "JAWA BARAT",
-      "country": "INDONESIA"
-    },
-    {
-      "dmrId": 1025079,
-      "callsign": "AB26BRJ",
-      "name": "ANANG HIDAYAT",
-      "city": "SLEMAN",
-      "state": "DI YOGYAKARTA",
-      "country": "INDONESIA"
-    },
-    {
-      "dmrId": 1025077,
-      "callsign": "BG26AAJ",
-      "name": "IMAM AMANU",
-      "city": "BANYUASIN",
-      "state": "SUMATERA SELATAN",
-      "country": "INDONESIA"
-    },
-    {
-      "dmrId": 1025076,
-      "callsign": "R26OON",
-      "name": "LETIYO",
-      "city": "BANJARNEGARA",
-      "state": "JAWA TENGAH",
-      "country": "INDONESIA"
-    },
-    {
-      "dmrId": 1025070,
-      "callsign": "AB26VUK",
-      "name": "ANTON FATAHILLAH",
-      "city": "SLEMAN",
-      "state": "DI YOGYAKARTA",
-      "country": "INDONESIA"
-    },
-    {
-      "dmrId": 1025069,
-      "callsign": "DB26ALQ",
-      "name": "FAITH SABATIO UNDAP",
-      "city": "TOMOHON",
-      "state": "SULAWESI UTARA",
-      "country": "INDONESIA"
-    },
-    {
-      "dmrId": 1025066,
-      "callsign": "B26RED",
-      "name": "SETYADI PRAMONO",
-      "city": "ADMIN. JAKARTA TIMUR",
-      "state": "DKI JAKARTA",
-      "country": "INDONESIA"
-    },
-    {
-      "dmrId": 1025065,
-      "callsign": "B26AWH",
-      "name": "INDRA SANIF",
-      "city": "ADMIN. JAKARTA SELATAN",
-      "state": "DKI JAKARTA",
-      "country": "INDONESIA"
-    },
-    {
-      "dmrId": 1025064,
-      "callsign": "B26AXC",
-      "name": "HANAFI HANDOKO",
-      "city": "ADMIN. JAKARTA TIMUR",
-      "state": "DKI JAKARTA",
-      "country": "INDONESIA"
-    },
-    {
-      "dmrId": 1025063,
-      "callsign": "B26BPV",
-      "name": "BAMBANG AGUS P",
-      "city": "ADMIN. JAKARTA TIMUR",
-      "state": "DKI JAKARTA",
-      "country": "INDONESIA"
-    },
-    {
-      "dmrId": 1025062,
-      "callsign": "B26AFF",
-      "name": "INDRA ISWARA LUKMAN",
-      "city": "BEKASI",
-      "state": "JAWA BARAT",
-      "country": "INDONESIA"
-    },
-    {
-      "dmrId": 1025061,
-      "callsign": "BK26HOY",
-      "name": "ALI AKBAR",
-      "city": "LANGKAT",
-      "state": "SUMATERA UTARA",
-      "country": "INDONESIA"
-    },
-    {
-      "dmrId": 1025060,
-      "callsign": "E26UNE",
-      "name": "EKO PUJI HARIYANTO",
-      "city": "INDRAMAYU",
-      "state": "JAWA BARAT",
-      "country": "INDONESIA"
-    },
-    {
-      "dmrId": 1025058,
-      "callsign": "B26BLL",
-      "name": "NASIR ALAM",
-      "city": "DEPOK",
-      "state": "JAWA BARAT",
-      "country": "INDONESIA"
-    },
-    {
-      "dmrId": 1025056,
-      "callsign": "KT26AMN",
-      "name": "OSTIAN MOGALANA",
-      "city": "BALIKPAPAN",
-      "state": "KALIMANTAN TIMUR",
-      "country": "INDONESIA"
-    },
-    {
-      "dmrId": 1025055,
-      "callsign": "PB26RRR",
-      "name": "SUKATELIN",
-      "city": "SORONG",
-      "state": "PAPUA BARAT DAYA",
-      "country": "INDONESIA"
-    },
-    {
-      "dmrId": 1025053,
-      "callsign": "A26HAN",
-      "name": "IMRON HANAFI",
-      "city": "SERANG",
-      "state": "BANTEN",
-      "country": "INDONESIA"
-    },
-    {
-      "dmrId": 1025052,
-      "callsign": "KT25ANM",
-      "name": "ANOM TETUKO",
-      "city": "SAMARINDA",
-      "state": "KALIMANTAN TIMUR",
-      "country": "INDONESIA"
-    },
-    {
-      "dmrId": 1025049,
-      "callsign": "B25DTZ",
-      "name": "SISWANTO",
-      "city": "BEKASI",
-      "state": "JAWA BARAT",
-      "country": "INDONESIA"
-    },
-    {
-      "dmrId": 1025048,
-      "callsign": "KT25NTF",
-      "name": "NOTIFIKASI JAM DAN BMKG",
-      "city": "BALIKPAPAN",
-      "state": "KALIMANTAN TIMUR",
-      "country": "INDONESIA"
-    },
-    {
-      "dmrId": 1025047,
-      "callsign": "B25ONG",
-      "name": "ONG SUHIRMAN",
-      "city": "ADMIN. JAKARTA BARAT",
-      "state": "DKI JAKARTA",
-      "country": "INDONESIA"
-    },
-    {
-      "dmrId": 1025045,
-      "callsign": "B25ASP",
-      "name": "ASEP ACHMAD HIDAYAT",
-      "city": "ADMIN. JAKARTA SELATAN",
-      "state": "DKI JAKARTA",
-      "country": "INDONESIA"
-    },
-    {
-      "dmrId": 1025043,
-      "callsign": "B25ZNI",
-      "name": "AKHMAD ZAINI",
-      "city": "ADMIN. JAKARTA SELATAN",
-      "state": "DKI JAKARTA",
-      "country": "INDONESIA"
-    },
-    {
-      "dmrId": 1025042,
-      "callsign": "BE25ADS",
-      "name": "ADI SANTOSO",
-      "city": "LAMPUNG TIMUR",
-      "state": "LAMPUNG",
-      "country": "INDONESIA"
-    },
-    {
-      "dmrId": 1025038,
-      "callsign": "P25IJP",
-      "name": "ANTON HENDRAWAN",
-      "city": "BANYUWANGI",
-      "state": "JAWA TIMUR",
-      "country": "INDONESIA"
-    },
-    {
-      "dmrId": 1025036,
-      "callsign": "N25ATQ",
-      "name": "JIMMY SUGIARTO",
-      "city": "MALANG",
-      "state": "JAWA TIMUR",
-      "country": "INDONESIA"
-    },
-    {
-      "dmrId": 1025035,
-      "callsign": "AE25CUZ",
-      "name": "PRASETYO ARDI NUGROHO",
-      "city": "PONOROGO",
-      "state": "JAWA TIMUR",
-      "country": "INDONESIA"
-    },
-    {
-      "dmrId": 1025034,
-      "callsign": "B26DJW",
-      "name": "ARBAIN BUDI RAHARJO",
-      "city": "BEKASI",
-      "state": "JAWA BARAT",
-      "country": "INDONESIA"
-    },
-    {
-      "dmrId": 1025033,
-      "callsign": "AB26VRG",
-      "name": "WULFRAM MARGONO",
-      "city": "SLEMAN",
-      "state": "DI YOGYAKARTA",
-      "country": "INDONESIA"
-    },
-    {
-      "dmrId": 1025031,
-      "callsign": "G25ADI",
-      "name": "ADI PRATOMO",
-      "city": "PEKALONGAN",
-      "state": "JAWA TENGAH",
-      "country": "INDONESIA"
-    },
-    {
-      "dmrId": 1025025,
-      "callsign": "B25IHN",
-      "name": "IHSAN",
-      "city": "PADANG",
-      "state": "SUMATERA BARAT",
-      "country": "INDONESIA"
-    },
-    {
-      "dmrId": 1025024,
-      "callsign": "R25NIK",
-      "name": "NIKO",
-      "city": "BANYUMAS",
-      "state": "JAWA TENGAH",
-      "country": "INDONESIA"
-    },
-    {
-      "dmrId": 1025021,
-      "callsign": "B25OPA",
-      "name": "MARSHEL",
-      "city": "ADMIN. JAKARTA SELATAN",
-      "state": "DKI JAKARTA",
-      "country": "INDONESIA"
-    },
-    {
-      "dmrId": 1025020,
-      "callsign": "KT25GDL",
-      "name": "AGUS PRIBADI",
-      "city": "BERAU",
-      "state": "KALIMANTAN TIMUR",
-      "country": "INDONESIA"
-    },
-    {
-      "dmrId": 1025017,
-      "callsign": "R25DVD",
-      "name": "KRISNO",
-      "city": "BANJARNEGARA",
-      "state": "JAWA TENGAH",
-      "country": "INDONESIA"
-    },
-    {
-      "dmrId": 1025015,
-      "callsign": "AD25AVI",
-      "name": "ANDI KUSJATMIKO",
-      "city": "SURAKARTA",
-      "state": "JAWA TENGAH",
-      "country": "INDONESIA"
-    },
-    {
-      "dmrId": 1025013,
-      "callsign": "BH25ADV",
-      "name": "SLAMET RIADI",
-      "city": "KERINCI",
-      "state": "JAMBI",
-      "country": "INDONESIA"
-    },
-    {
-      "dmrId": 1025012,
-      "callsign": "AB25BAN",
-      "name": "BAMBANG ANGGORO NUGROHO",
-      "city": "SLEMAN",
-      "state": "DI YOGYAKARTA",
-      "country": "INDONESIA"
-    },
-    {
-      "dmrId": 1025011,
-      "callsign": "B25NRD",
-      "name": "NURDIN",
-      "city": "ADMIN. JAKARTA BARAT",
-      "state": "DKI JAKARTA",
-      "country": "INDONESIA"
-    },
-    {
-      "dmrId": 1025010,
-      "callsign": "BP25EDT",
-      "name": "EDI TJOKRO",
-      "city": "BATAM",
-      "state": "KEPULAUAN RIAU",
-      "country": "INDONESIA"
-    },
-    {
-      "dmrId": 1025008,
-      "callsign": "N25IIK",
-      "name": "SOEWITO",
-      "city": "MALANG",
-      "state": "JAWA TIMUR",
-      "country": "INDONESIA"
-    },
-    {
-      "dmrId": 1025006,
-      "callsign": "BM25ABH",
-      "name": "RANGGA FADLINUR",
-      "city": "PEKANBARU",
-      "state": "RIAU",
-      "country": "INDONESIA"
-    },
-    {
-      "dmrId": 1025005,
-      "callsign": "KT26SVX",
-      "name": "LINK SVX TOMBOLPTT",
-      "city": "BALIKPAPAN",
-      "state": "KALIMANTAN TIMUR",
-      "country": "INDONESIA"
-    },
-    {
-      "dmrId": 1025004,
-      "callsign": "G25BSL",
-      "name": "BAMBANG PRAMUDYA ADITOMO",
-      "city": "TEGAL",
-      "state": "JAWA TENGAH",
-      "country": "INDONESIA"
-    },
-    {
-      "dmrId": 1025003,
-      "callsign": "KT25ARI",
-      "name": "ARIYANTO",
+      "dmrId": 1025001,
+      "callsign": "KT25LZT",
+      "name": "LINK ZELLO TOMBOLPTT",
       "city": "BALIKPAPAN",
       "state": "KALIMANTAN TIMUR",
       "country": "INDONESIA"
@@ -1154,11 +26,43 @@
       "country": "INDONESIA"
     },
     {
-      "dmrId": 1025001,
-      "callsign": "KT25LZT",
-      "name": "LINK ZELLO TOMBOLPTT",
+      "dmrId": 1025003,
+      "callsign": "KT25ARI",
+      "name": "ARIYANTO",
       "city": "BALIKPAPAN",
       "state": "KALIMANTAN TIMUR",
+      "country": "INDONESIA"
+    },
+    {
+      "dmrId": 1025004,
+      "callsign": "G25BSL",
+      "name": "BAMBANG PRAMUDYA ADITOMO",
+      "city": "TEGAL",
+      "state": "JAWA TENGAH",
+      "country": "INDONESIA"
+    },
+    {
+      "dmrId": 1025005,
+      "callsign": "KT26SVX",
+      "name": "LINK SVX TOMBOLPTT",
+      "city": "BALIKPAPAN",
+      "state": "KALIMANTAN TIMUR",
+      "country": "INDONESIA"
+    },
+    {
+      "dmrId": 1025006,
+      "callsign": "BM25ABH",
+      "name": "RANGGA FADLINUR",
+      "city": "PEKANBARU",
+      "state": "RIAU",
+      "country": "INDONESIA"
+    },
+    {
+      "dmrId": 1025008,
+      "callsign": "N25IIK",
+      "name": "SOEWITO",
+      "city": "MALANG",
+      "state": "JAWA TIMUR",
       "country": "INDONESIA"
     },
     {
@@ -1167,6 +71,1110 @@
       "name": "DMR TOMBOLPTT",
       "city": "BALIKPAPAN",
       "state": "KALIMANTAN TIMUR",
+      "country": "INDONESIA"
+    },
+    {
+      "dmrId": 1025010,
+      "callsign": "BP25EDT",
+      "name": "EDI TJOKRO",
+      "city": "BATAM",
+      "state": "KEPULAUAN RIAU",
+      "country": "INDONESIA"
+    },
+    {
+      "dmrId": 1025011,
+      "callsign": "B25NRD",
+      "name": "NURDIN",
+      "city": "ADMIN. JAKARTA BARAT",
+      "state": "DKI JAKARTA",
+      "country": "INDONESIA"
+    },
+    {
+      "dmrId": 1025012,
+      "callsign": "AB25BAN",
+      "name": "BAMBANG ANGGORO NUGROHO",
+      "city": "SLEMAN",
+      "state": "DI YOGYAKARTA",
+      "country": "INDONESIA"
+    },
+    {
+      "dmrId": 1025013,
+      "callsign": "BH25ADV",
+      "name": "SLAMET RIADI",
+      "city": "KERINCI",
+      "state": "JAMBI",
+      "country": "INDONESIA"
+    },
+    {
+      "dmrId": 1025015,
+      "callsign": "AD25AVI",
+      "name": "ANDI KUSJATMIKO",
+      "city": "SURAKARTA",
+      "state": "JAWA TENGAH",
+      "country": "INDONESIA"
+    },
+    {
+      "dmrId": 1025017,
+      "callsign": "R25DVD",
+      "name": "KRISNO",
+      "city": "BANJARNEGARA",
+      "state": "JAWA TENGAH",
+      "country": "INDONESIA"
+    },
+    {
+      "dmrId": 1025020,
+      "callsign": "KT25GDL",
+      "name": "AGUS PRIBADI",
+      "city": "BERAU",
+      "state": "KALIMANTAN TIMUR",
+      "country": "INDONESIA"
+    },
+    {
+      "dmrId": 1025021,
+      "callsign": "B25OPA",
+      "name": "MARSHEL",
+      "city": "ADMIN. JAKARTA SELATAN",
+      "state": "DKI JAKARTA",
+      "country": "INDONESIA"
+    },
+    {
+      "dmrId": 1025024,
+      "callsign": "R25NIK",
+      "name": "NIKO",
+      "city": "BANYUMAS",
+      "state": "JAWA TENGAH",
+      "country": "INDONESIA"
+    },
+    {
+      "dmrId": 1025025,
+      "callsign": "B25IHN",
+      "name": "IHSAN",
+      "city": "PADANG",
+      "state": "SUMATERA BARAT",
+      "country": "INDONESIA"
+    },
+    {
+      "dmrId": 1025031,
+      "callsign": "G25ADI",
+      "name": "ADI PRATOMO",
+      "city": "PEKALONGAN",
+      "state": "JAWA TENGAH",
+      "country": "INDONESIA"
+    },
+    {
+      "dmrId": 1025033,
+      "callsign": "AB26VRG",
+      "name": "WULFRAM MARGONO",
+      "city": "SLEMAN",
+      "state": "DI YOGYAKARTA",
+      "country": "INDONESIA"
+    },
+    {
+      "dmrId": 1025034,
+      "callsign": "B26DJW",
+      "name": "ARBAIN BUDI RAHARJO",
+      "city": "BEKASI",
+      "state": "JAWA BARAT",
+      "country": "INDONESIA"
+    },
+    {
+      "dmrId": 1025035,
+      "callsign": "AE25CUZ",
+      "name": "PRASETYO ARDI NUGROHO",
+      "city": "PONOROGO",
+      "state": "JAWA TIMUR",
+      "country": "INDONESIA"
+    },
+    {
+      "dmrId": 1025036,
+      "callsign": "N25ATQ",
+      "name": "JIMMY SUGIARTO",
+      "city": "MALANG",
+      "state": "JAWA TIMUR",
+      "country": "INDONESIA"
+    },
+    {
+      "dmrId": 1025038,
+      "callsign": "P25IJP",
+      "name": "ANTON HENDRAWAN",
+      "city": "BANYUWANGI",
+      "state": "JAWA TIMUR",
+      "country": "INDONESIA"
+    },
+    {
+      "dmrId": 1025042,
+      "callsign": "BE25ADS",
+      "name": "ADI SANTOSO",
+      "city": "LAMPUNG TIMUR",
+      "state": "LAMPUNG",
+      "country": "INDONESIA"
+    },
+    {
+      "dmrId": 1025043,
+      "callsign": "B25ZNI",
+      "name": "AKHMAD ZAINI",
+      "city": "ADMIN. JAKARTA SELATAN",
+      "state": "DKI JAKARTA",
+      "country": "INDONESIA"
+    },
+    {
+      "dmrId": 1025045,
+      "callsign": "B25ASP",
+      "name": "ASEP ACHMAD HIDAYAT",
+      "city": "ADMIN. JAKARTA SELATAN",
+      "state": "DKI JAKARTA",
+      "country": "INDONESIA"
+    },
+    {
+      "dmrId": 1025047,
+      "callsign": "B25ONG",
+      "name": "ONG SUHIRMAN",
+      "city": "ADMIN. JAKARTA BARAT",
+      "state": "DKI JAKARTA",
+      "country": "INDONESIA"
+    },
+    {
+      "dmrId": 1025048,
+      "callsign": "KT25NTF",
+      "name": "NOTIFIKASI JAM DAN BMKG",
+      "city": "BALIKPAPAN",
+      "state": "KALIMANTAN TIMUR",
+      "country": "INDONESIA"
+    },
+    {
+      "dmrId": 1025049,
+      "callsign": "B25DTZ",
+      "name": "SISWANTO",
+      "city": "BEKASI",
+      "state": "JAWA BARAT",
+      "country": "INDONESIA"
+    },
+    {
+      "dmrId": 1025052,
+      "callsign": "KT25ANM",
+      "name": "ANOM TETUKO",
+      "city": "SAMARINDA",
+      "state": "KALIMANTAN TIMUR",
+      "country": "INDONESIA"
+    },
+    {
+      "dmrId": 1025053,
+      "callsign": "A26HAN",
+      "name": "IMRON HANAFI",
+      "city": "SERANG",
+      "state": "BANTEN",
+      "country": "INDONESIA"
+    },
+    {
+      "dmrId": 1025055,
+      "callsign": "PB26RRR",
+      "name": "SUKATELIN",
+      "city": "SORONG",
+      "state": "PAPUA BARAT DAYA",
+      "country": "INDONESIA"
+    },
+    {
+      "dmrId": 1025056,
+      "callsign": "KT26AMN",
+      "name": "OSTIAN MOGALANA",
+      "city": "BALIKPAPAN",
+      "state": "KALIMANTAN TIMUR",
+      "country": "INDONESIA"
+    },
+    {
+      "dmrId": 1025058,
+      "callsign": "B26BLL",
+      "name": "NASIR ALAM",
+      "city": "DEPOK",
+      "state": "JAWA BARAT",
+      "country": "INDONESIA"
+    },
+    {
+      "dmrId": 1025060,
+      "callsign": "E26UNE",
+      "name": "EKO PUJI HARIYANTO",
+      "city": "INDRAMAYU",
+      "state": "JAWA BARAT",
+      "country": "INDONESIA"
+    },
+    {
+      "dmrId": 1025061,
+      "callsign": "BK26HOY",
+      "name": "ALI AKBAR",
+      "city": "LANGKAT",
+      "state": "SUMATERA UTARA",
+      "country": "INDONESIA"
+    },
+    {
+      "dmrId": 1025062,
+      "callsign": "B26AFF",
+      "name": "INDRA ISWARA LUKMAN",
+      "city": "BEKASI",
+      "state": "JAWA BARAT",
+      "country": "INDONESIA"
+    },
+    {
+      "dmrId": 1025063,
+      "callsign": "B26BPV",
+      "name": "BAMBANG AGUS P",
+      "city": "ADMIN. JAKARTA TIMUR",
+      "state": "DKI JAKARTA",
+      "country": "INDONESIA"
+    },
+    {
+      "dmrId": 1025064,
+      "callsign": "B26AXC",
+      "name": "HANAFI HANDOKO",
+      "city": "ADMIN. JAKARTA TIMUR",
+      "state": "DKI JAKARTA",
+      "country": "INDONESIA"
+    },
+    {
+      "dmrId": 1025065,
+      "callsign": "B26AWH",
+      "name": "INDRA SANIF",
+      "city": "ADMIN. JAKARTA SELATAN",
+      "state": "DKI JAKARTA",
+      "country": "INDONESIA"
+    },
+    {
+      "dmrId": 1025066,
+      "callsign": "B26RED",
+      "name": "SETYADI PRAMONO",
+      "city": "ADMIN. JAKARTA TIMUR",
+      "state": "DKI JAKARTA",
+      "country": "INDONESIA"
+    },
+    {
+      "dmrId": 1025069,
+      "callsign": "DB26ALQ",
+      "name": "FAITH SABATIO UNDAP",
+      "city": "TOMOHON",
+      "state": "SULAWESI UTARA",
+      "country": "INDONESIA"
+    },
+    {
+      "dmrId": 1025070,
+      "callsign": "AB26VUK",
+      "name": "ANTON FATAHILLAH",
+      "city": "SLEMAN",
+      "state": "DI YOGYAKARTA",
+      "country": "INDONESIA"
+    },
+    {
+      "dmrId": 1025076,
+      "callsign": "R26OON",
+      "name": "LETIYO",
+      "city": "BANJARNEGARA",
+      "state": "JAWA TENGAH",
+      "country": "INDONESIA"
+    },
+    {
+      "dmrId": 1025077,
+      "callsign": "BG26AAJ",
+      "name": "IMAM AMANU",
+      "city": "BANYUASIN",
+      "state": "SUMATERA SELATAN",
+      "country": "INDONESIA"
+    },
+    {
+      "dmrId": 1025079,
+      "callsign": "AB26BRJ",
+      "name": "ANANG HIDAYAT",
+      "city": "SLEMAN",
+      "state": "DI YOGYAKARTA",
+      "country": "INDONESIA"
+    },
+    {
+      "dmrId": 1025081,
+      "callsign": "Z26IXM",
+      "name": "DIAN HERMAWAN",
+      "city": "CIAMIS",
+      "state": "JAWA BARAT",
+      "country": "INDONESIA"
+    },
+    {
+      "dmrId": 1025083,
+      "callsign": "AA26BTP",
+      "name": "CAHYONO DWIKARTIPUTRA",
+      "city": "MAGELANG",
+      "state": "JAWA TENGAH",
+      "country": "INDONESIA"
+    },
+    {
+      "dmrId": 1025084,
+      "callsign": "DD26DPD",
+      "name": "MUDDASSIR",
+      "city": "KEPULAUAN SELAYAR",
+      "state": "SULAWESI SELATAN",
+      "country": "INDONESIA"
+    },
+    {
+      "dmrId": 1025085,
+      "callsign": "DK26BBU",
+      "name": "HIRMAWAN TIRTA YUDHA",
+      "city": "BULELENG",
+      "state": "BALI",
+      "country": "INDONESIA"
+    },
+    {
+      "dmrId": 1025088,
+      "callsign": "B26BFD",
+      "name": "DIDIK NURHADI",
+      "city": "ADMIN. JAKARTA SELATAN",
+      "state": "DKI JAKARTA",
+      "country": "INDONESIA"
+    },
+    {
+      "dmrId": 1025089,
+      "callsign": "D26RZL",
+      "name": "SYAFRIZAL AFFARDI RUSLI",
+      "city": "BANDUNG BARAT",
+      "state": "JAWA BARAT",
+      "country": "INDONESIA"
+    },
+    {
+      "dmrId": 1025090,
+      "callsign": "BK26HHD",
+      "name": "ZULKARNAIN",
+      "city": "MEDAN",
+      "state": "SUMATERA UTARA",
+      "country": "INDONESIA"
+    },
+    {
+      "dmrId": 1025095,
+      "callsign": "H26HZZ",
+      "name": "HARRIS",
+      "city": "SEMARANG",
+      "state": "JAWA TENGAH",
+      "country": "INDONESIA"
+    },
+    {
+      "dmrId": 1025096,
+      "callsign": "K26JNL",
+      "name": "BUDI SANTOSA",
+      "city": "BLORA",
+      "state": "JAWA TENGAH",
+      "country": "INDONESIA"
+    },
+    {
+      "dmrId": 1025097,
+      "callsign": "DB26RAM",
+      "name": "ANTONIUS MARAMIS",
+      "city": "TOMOHON",
+      "state": "SULAWESI UTARA",
+      "country": "INDONESIA"
+    },
+    {
+      "dmrId": 1025098,
+      "callsign": "E26EKP",
+      "name": "ANWARI",
+      "city": "CIREBON",
+      "state": "JAWA BARAT",
+      "country": "INDONESIA"
+    },
+    {
+      "dmrId": 1025099,
+      "callsign": "E26BNY",
+      "name": "GINANJAR EKO RUSSETYADI",
+      "city": "CIREBON",
+      "state": "JAWA BARAT",
+      "country": "INDONESIA"
+    },
+    {
+      "dmrId": 1025100,
+      "callsign": "L26AIV",
+      "name": "SARJONO",
+      "city": "SURABAYA",
+      "state": "JAWA TIMUR",
+      "country": "INDONESIA"
+    },
+    {
+      "dmrId": 1025101,
+      "callsign": "AB26VLE",
+      "name": "ANTHONI CAHYO NS",
+      "city": "BANTUL",
+      "state": "DI YOGYAKARTA",
+      "country": "INDONESIA"
+    },
+    {
+      "dmrId": 1025102,
+      "callsign": "AB26YAY",
+      "name": "ANDA WIJANARKO",
+      "city": "SLEMAN",
+      "state": "DI YOGYAKARTA",
+      "country": "INDONESIA"
+    },
+    {
+      "dmrId": 1025103,
+      "callsign": "BK26HMY",
+      "name": "MUHAMMAD ZALDI",
+      "city": "MEDAN",
+      "state": "SUMATERA UTARA",
+      "country": "INDONESIA"
+    },
+    {
+      "dmrId": 1025104,
+      "callsign": "AA26CHJ",
+      "name": "SUDIHARTO",
+      "city": "KEBUMEN",
+      "state": "JAWA TENGAH",
+      "country": "INDONESIA"
+    },
+    {
+      "dmrId": 1025106,
+      "callsign": "G26SKR",
+      "name": "FAHMI NURHIKMAH",
+      "city": "TEGAL",
+      "state": "JAWA TENGAH",
+      "country": "INDONESIA"
+    },
+    {
+      "dmrId": 1025107,
+      "callsign": "L26BRB",
+      "name": "HAFID AKBAR",
+      "city": "SURABAYA",
+      "state": "JAWA TIMUR",
+      "country": "INDONESIA"
+    },
+    {
+      "dmrId": 1025108,
+      "callsign": "K26MRK",
+      "name": "MUHAMMAD NANANG RIZALDI",
+      "city": "JEPARA",
+      "state": "JAWA TENGAH",
+      "country": "INDONESIA"
+    },
+    {
+      "dmrId": 1025109,
+      "callsign": "DK26AGU",
+      "name": "I WAYAN PONGKI SETIAWAN",
+      "city": "BADUNG",
+      "state": "BALI",
+      "country": "INDONESIA"
+    },
+    {
+      "dmrId": 1025110,
+      "callsign": "W26CNF",
+      "name": "ABDULLAH CHANIF",
+      "city": "GRESIK",
+      "state": "JAWA TIMUR",
+      "country": "INDONESIA"
+    },
+    {
+      "dmrId": 1025111,
+      "callsign": "D26AYV",
+      "name": "ANANDA YUSUF VALERIAN",
+      "city": "BANDUNG BARAT",
+      "state": "JAWA BARAT",
+      "country": "INDONESIA"
+    },
+    {
+      "dmrId": 1025112,
+      "callsign": "BM26NPC",
+      "name": "SUTAN PL",
+      "city": "PEKANBARU",
+      "state": "RIAU",
+      "country": "INDONESIA"
+    },
+    {
+      "dmrId": 1025113,
+      "callsign": "R26TIA",
+      "name": "MUTIA",
+      "city": "PURBALINGGA",
+      "state": "JAWA TENGAH",
+      "country": "INDONESIA"
+    },
+    {
+      "dmrId": 1025114,
+      "callsign": "D26WDY",
+      "name": "WENDY PRANANDHA",
+      "city": "BANDUNG",
+      "state": "JAWA BARAT",
+      "country": "INDONESIA"
+    },
+    {
+      "dmrId": 1025115,
+      "callsign": "D26SUS",
+      "name": "UUS IDRUS",
+      "city": "BANDUNG",
+      "state": "JAWA BARAT",
+      "country": "INDONESIA"
+    },
+    {
+      "dmrId": 1025116,
+      "callsign": "T26SAL",
+      "name": "SALMON MUSTAFA",
+      "city": "KARAWANG",
+      "state": "JAWA BARAT",
+      "country": "INDONESIA"
+    },
+    {
+      "dmrId": 1025117,
+      "callsign": "Z26WHY",
+      "name": "MAMAT RUHIMAT",
+      "city": "TASIKMALAYA",
+      "state": "JAWA BARAT",
+      "country": "INDONESIA"
+    },
+    {
+      "dmrId": 1025118,
+      "callsign": "PB26ATP",
+      "name": "ATOK PRASETYO",
+      "city": "SORONG",
+      "state": "PAPUA BARAT DAYA",
+      "country": "INDONESIA"
+    },
+    {
+      "dmrId": 1025119,
+      "callsign": "Z26ASS",
+      "name": "ASEPSUWITO",
+      "city": "TASIKMALAYA",
+      "state": "JAWA BARAT",
+      "country": "INDONESIA"
+    },
+    {
+      "dmrId": 1025120,
+      "callsign": "AB26YEM",
+      "name": "YOSEPH EKO MARTONO",
+      "city": "YOGYAKARTA",
+      "state": "DI YOGYAKARTA",
+      "country": "INDONESIA"
+    },
+    {
+      "dmrId": 1025121,
+      "callsign": "AB26RAW",
+      "name": "RUSNAWAN AGUNG WIJAYA",
+      "city": "YOGYAKARTA",
+      "state": "DI YOGYAKARTA",
+      "country": "INDONESIA"
+    },
+    {
+      "dmrId": 1025122,
+      "callsign": "BP26OLI",
+      "name": "SUHARSIH",
+      "city": "BATAM",
+      "state": "KEPULAUAN RIAU",
+      "country": "INDONESIA"
+    },
+    {
+      "dmrId": 1025123,
+      "callsign": "BP26BDX",
+      "name": "NING",
+      "city": "BATAM",
+      "state": "KEPULAUAN RIAU",
+      "country": "INDONESIA"
+    },
+    {
+      "dmrId": 1025124,
+      "callsign": "PB26SUD",
+      "name": "SUUD",
+      "city": "MANOKWARI",
+      "state": "PAPUA BARAT",
+      "country": "INDONESIA"
+    },
+    {
+      "dmrId": 1025125,
+      "callsign": "BK26CIL",
+      "name": "IWAN BUDIYANTO",
+      "city": "PEMATANGSIANTAR",
+      "state": "SUMATERA UTARA",
+      "country": "INDONESIA"
+    },
+    {
+      "dmrId": 1025126,
+      "callsign": "KT26MAO",
+      "name": "AMIN",
+      "city": "PENAJAM PASER UTARA",
+      "state": "KALIMANTAN TIMUR",
+      "country": "INDONESIA"
+    },
+    {
+      "dmrId": 1025127,
+      "callsign": "D26HPI",
+      "name": "HERMAN PERMADI",
+      "city": "BANDUNG BARAT",
+      "state": "JAWA BARAT",
+      "country": "INDONESIA"
+    },
+    {
+      "dmrId": 1025128,
+      "callsign": "L26ART",
+      "name": "MUFTI KUSUMA ADI",
+      "city": "SURABAYA",
+      "state": "JAWA TIMUR",
+      "country": "INDONESIA"
+    },
+    {
+      "dmrId": 1025129,
+      "callsign": "KT26AWB",
+      "name": "ARIES WIBOWO",
+      "city": "BALIKPAPAN",
+      "state": "KALIMANTAN TIMUR",
+      "country": "INDONESIA"
+    },
+    {
+      "dmrId": 1025130,
+      "callsign": "B26DVA",
+      "name": "DOVIANDA ARIANDANU",
+      "city": "TANGERANG",
+      "state": "BANTEN",
+      "country": "INDONESIA"
+    },
+    {
+      "dmrId": 1025131,
+      "callsign": "BP26KAF",
+      "name": "SUPRIHANDOYO",
+      "city": "KARIMUN",
+      "state": "KEPULAUAN RIAU",
+      "country": "INDONESIA"
+    },
+    {
+      "dmrId": 1025132,
+      "callsign": "KT26AKP",
+      "name": "SUHADI",
+      "city": "SAMARINDA",
+      "state": "KALIMANTAN TIMUR",
+      "country": "INDONESIA"
+    },
+    {
+      "dmrId": 1025133,
+      "callsign": "KT26MDP",
+      "name": "SULIM",
+      "city": "PENAJAM PASER UTARA",
+      "state": "KALIMANTAN TIMUR",
+      "country": "INDONESIA"
+    },
+    {
+      "dmrId": 1025134,
+      "callsign": "KT26ASD",
+      "name": "OKKY SATRYA NUGRAHA",
+      "city": "BALIKPAPAN",
+      "state": "KALIMANTAN TIMUR",
+      "country": "INDONESIA"
+    },
+    {
+      "dmrId": 1025136,
+      "callsign": "PB26ACX",
+      "name": "TRI BUDI IRIANTO",
+      "city": "SORONG",
+      "state": "PAPUA BARAT DAYA",
+      "country": "INDONESIA"
+    },
+    {
+      "dmrId": 1025137,
+      "callsign": "KT26AKJ",
+      "name": "IKSAN",
+      "city": "PENAJAM PASER UTARA",
+      "state": "KALIMANTAN TIMUR",
+      "country": "INDONESIA"
+    },
+    {
+      "dmrId": 1025138,
+      "callsign": "DK26XNY",
+      "name": "MADE SUGIARTA",
+      "city": "BULELENG",
+      "state": "BALI",
+      "country": "INDONESIA"
+    },
+    {
+      "dmrId": 1025139,
+      "callsign": "B26THE",
+      "name": "ARINTOKO NUGROHO",
+      "city": "ADMIN. JAKARTA BARAT",
+      "state": "DKI JAKARTA",
+      "country": "INDONESIA"
+    },
+    {
+      "dmrId": 1025140,
+      "callsign": "BK26HXJ",
+      "name": "FAJRIN NUR M",
+      "city": "MEDAN",
+      "state": "SUMATERA UTARA",
+      "country": "INDONESIA"
+    },
+    {
+      "dmrId": 1025141,
+      "callsign": "AA26MHM",
+      "name": "MUHASIM",
+      "city": "PURWOREJO",
+      "state": "JAWA TENGAH",
+      "country": "INDONESIA"
+    },
+    {
+      "dmrId": 1025142,
+      "callsign": "B26NRH",
+      "name": "NOER FADILLAH",
+      "city": "ADMIN. JAKARTA BARAT",
+      "state": "DKI JAKARTA",
+      "country": "INDONESIA"
+    },
+    {
+      "dmrId": 1025143,
+      "callsign": "B26TKR",
+      "name": "TAUFIK KUSNANDAR",
+      "city": "TANGERANG SELATAN",
+      "state": "BANTEN",
+      "country": "INDONESIA"
+    },
+    {
+      "dmrId": 1025144,
+      "callsign": "BH26AMT",
+      "name": "SOLIKIN",
+      "city": "MUARO JAMBI",
+      "state": "JAMBI",
+      "country": "INDONESIA"
+    },
+    {
+      "dmrId": 1025145,
+      "callsign": "B26BXR",
+      "name": "DHETYO DWIYOGA F",
+      "city": "ADMIN. JAKARTA PUSAT",
+      "state": "DKI JAKARTA",
+      "country": "INDONESIA"
+    },
+    {
+      "dmrId": 1025146,
+      "callsign": "BK26HQN",
+      "name": "HENDRAWAN WIJAYA",
+      "city": "MEDAN",
+      "state": "SUMATERA UTARA",
+      "country": "INDONESIA"
+    },
+    {
+      "dmrId": 1025147,
+      "callsign": "Z26AXR",
+      "name": "PURNAMA",
+      "city": "TASIKMALAYA",
+      "state": "JAWA BARAT",
+      "country": "INDONESIA"
+    },
+    {
+      "dmrId": 1025148,
+      "callsign": "N26THO",
+      "name": "TOTO HARIYANTO",
+      "city": "MALANG",
+      "state": "JAWA TIMUR",
+      "country": "INDONESIA"
+    },
+    {
+      "dmrId": 1025149,
+      "callsign": "DD26HRN",
+      "name": "HARINUDDIN",
+      "city": "MAROS",
+      "state": "SULAWESI SELATAN",
+      "country": "INDONESIA"
+    },
+    {
+      "dmrId": 1025150,
+      "callsign": "AA26SYP",
+      "name": "SURYA PRATAMA",
+      "city": "KEBUMEN",
+      "state": "JAWA TENGAH",
+      "country": "INDONESIA"
+    },
+    {
+      "dmrId": 1025151,
+      "callsign": "H26DBG",
+      "name": "ILYAS",
+      "city": "SEMARANG",
+      "state": "JAWA TENGAH",
+      "country": "INDONESIA"
+    },
+    {
+      "dmrId": 1025152,
+      "callsign": "PB26BCC",
+      "name": "JHONAL",
+      "city": "MANOKWARI",
+      "state": "PAPUA BARAT",
+      "country": "INDONESIA"
+    },
+    {
+      "dmrId": 1025153,
+      "callsign": "KT26MEG",
+      "name": "AYUS",
+      "city": "PENAJAM PASER UTARA",
+      "state": "KALIMANTAN TIMUR",
+      "country": "INDONESIA"
+    },
+    {
+      "dmrId": 1025154,
+      "callsign": "AB26DKA",
+      "name": "DEDY KURNIA",
+      "city": "SLEMAN",
+      "state": "DI YOGYAKARTA",
+      "country": "INDONESIA"
+    },
+    {
+      "dmrId": 1025155,
+      "callsign": "B26AMC",
+      "name": "ASNAMIL CHOLIS",
+      "city": "BEKASI",
+      "state": "JAWA BARAT",
+      "country": "INDONESIA"
+    },
+    {
+      "dmrId": 1025156,
+      "callsign": "AB26IWB",
+      "name": "IRWAN BRAMANTYO",
+      "city": "YOGYAKARTA",
+      "state": "DI YOGYAKARTA",
+      "country": "INDONESIA"
+    },
+    {
+      "dmrId": 1025157,
+      "callsign": "W26AFS",
+      "name": "BIMO PARAMA ARTHA",
+      "city": "SIDOARJO",
+      "state": "JAWA TIMUR",
+      "country": "INDONESIA"
+    },
+    {
+      "dmrId": 1025158,
+      "callsign": "AD26BDU",
+      "name": "ARYAWAN BAYU WERDANI",
+      "city": "KLATEN",
+      "state": "JAWA TENGAH",
+      "country": "INDONESIA"
+    },
+    {
+      "dmrId": 1025159,
+      "callsign": "W26BEY",
+      "name": "ACHOMADIN",
+      "city": "SIDOARJO",
+      "state": "JAWA TIMUR",
+      "country": "INDONESIA"
+    },
+    {
+      "dmrId": 1025160,
+      "callsign": "DK26AFM",
+      "name": "I PUTU ADI YANA",
+      "city": "JEMBRANA",
+      "state": "BALI",
+      "country": "INDONESIA"
+    },
+    {
+      "dmrId": 1025161,
+      "callsign": "B26AHK",
+      "name": "FAKICH UDIN",
+      "city": "BEKASI",
+      "state": "JAWA BARAT",
+      "country": "INDONESIA"
+    },
+    {
+      "dmrId": 1025162,
+      "callsign": "A26BCE",
+      "name": "REDHA HERDIANTO",
+      "city": "SERANG",
+      "state": "BANTEN",
+      "country": "INDONESIA"
+    },
+    {
+      "dmrId": 1025163,
+      "callsign": "N26TZH",
+      "name": "GIGIH ADI PRAYOGO",
+      "city": "MALANG",
+      "state": "JAWA TIMUR",
+      "country": "INDONESIA"
+    },
+    {
+      "dmrId": 1025164,
+      "callsign": "B26SFD",
+      "name": "YONI RUSDIANA",
+      "city": "TANGERANG",
+      "state": "BANTEN",
+      "country": "INDONESIA"
+    },
+    {
+      "dmrId": 1025165,
+      "callsign": "KU26UFZ",
+      "name": "SOFIYAN",
+      "city": "TARAKAN",
+      "state": "KALIMANTAN UTARA",
+      "country": "INDONESIA"
+    },
+    {
+      "dmrId": 1025166,
+      "callsign": "BB26BYQ",
+      "name": "AGUNG DWI CAHYADU",
+      "city": "SIBOLGA",
+      "state": "SUMATERA UTARA",
+      "country": "INDONESIA"
+    },
+    {
+      "dmrId": 1025167,
+      "callsign": "DA26DYS",
+      "name": "DWY SISHADI",
+      "city": "BANJARMASIN",
+      "state": "KALIMANTAN SELATAN",
+      "country": "INDONESIA"
+    },
+    {
+      "dmrId": 1025168,
+      "callsign": "H26BBH",
+      "name": "ROBBY AGUNG WIJAYA",
+      "city": "SEMARANG",
+      "state": "JAWA TENGAH",
+      "country": "INDONESIA"
+    },
+    {
+      "dmrId": 1025169,
+      "callsign": "G26UEF",
+      "name": "AHMADMUSTAQIM",
+      "city": "BATANG",
+      "state": "JAWA TENGAH",
+      "country": "INDONESIA"
+    },
+    {
+      "dmrId": 1025170,
+      "callsign": "KH26EYS",
+      "name": "ERRY SUTA",
+      "city": "KOTAWARINGIN BARAT",
+      "state": "KALIMANTAN TENGAH",
+      "country": "INDONESIA"
+    },
+    {
+      "dmrId": 1025171,
+      "callsign": "AB26YZY",
+      "name": "JAKA SATMOKO",
+      "city": "KULON PROGO",
+      "state": "DI YOGYAKARTA",
+      "country": "INDONESIA"
+    },
+    {
+      "dmrId": 1025172,
+      "callsign": "B26KHO",
+      "name": "KUKUH WAHYONO",
+      "city": "ADMIN. JAKARTA PUSAT",
+      "state": "DKI JAKARTA",
+      "country": "INDONESIA"
+    },
+    {
+      "dmrId": 1025173,
+      "callsign": "BK26ATO",
+      "name": "BAYOLABAN",
+      "city": "MEDAN",
+      "state": "SUMATERA UTARA",
+      "country": "INDONESIA"
+    },
+    {
+      "dmrId": 1025174,
+      "callsign": "B26MJE",
+      "name": "PT MEIZZAHRA JAYASAKTI ENERGI",
+      "city": "ADMIN. JAKARTA SELATAN",
+      "state": "DKI JAKARTA",
+      "country": "INDONESIA"
+    },
+    {
+      "dmrId": 1025175,
+      "callsign": "B26PAW",
+      "name": "PAULUS ARIESTIAN WIDJONARKO",
+      "city": "BEKASI",
+      "state": "JAWA BARAT",
+      "country": "INDONESIA"
+    },
+    {
+      "dmrId": 1025176,
+      "callsign": "DK26PSY",
+      "name": "PUTU SUARYANA",
+      "city": "DENPASAR",
+      "state": "BALI",
+      "country": "INDONESIA"
+    },
+    {
+      "dmrId": 1025177,
+      "callsign": "AB26YBP",
+      "name": "TRI MEDIANTO",
+      "city": "SLEMAN",
+      "state": "DI YOGYAKARTA",
+      "country": "INDONESIA"
+    },
+    {
+      "dmrId": 1025178,
+      "callsign": "BE26GDE",
+      "name": "GEDE",
+      "city": "LAMPUNG SELATAN",
+      "state": "LAMPUNG",
+      "country": "INDONESIA"
+    },
+    {
+      "dmrId": 1025179,
+      "callsign": "KU26UNO",
+      "name": "SAYID UMAR AL HINDUAN",
+      "city": "TARAKAN",
+      "state": "KALIMANTAN UTARA",
+      "country": "INDONESIA"
+    },
+    {
+      "dmrId": 1025180,
+      "callsign": "AB26NNG",
+      "name": "NANANG",
+      "city": "KULON PROGO",
+      "state": "DI YOGYAKARTA",
+      "country": "INDONESIA"
+    },
+    {
+      "dmrId": 1025181,
+      "callsign": "B26BCA",
+      "name": "ABDUL RAHMAN",
+      "city": "ADMIN. JAKARTA UTARA",
+      "state": "DKI JAKARTA",
+      "country": "INDONESIA"
+    },
+    {
+      "dmrId": 1025182,
+      "callsign": "D26BIN",
+      "name": "BENI NUGRAHA",
+      "city": "BANDUNG BARAT",
+      "state": "JAWA BARAT",
+      "country": "INDONESIA"
+    },
+    {
+      "dmrId": 1025183,
+      "callsign": "B26ISW",
+      "name": "IWAN SETIAWAN",
+      "city": "ADMIN. JAKARTA UTARA",
+      "state": "DKI JAKARTA",
+      "country": "INDONESIA"
+    },
+    {
+      "dmrId": 1025184,
+      "callsign": "B26ADN",
+      "name": "AHMAD SOFYAN",
+      "city": "ADMIN. JAKARTA SELATAN",
+      "state": "DKI JAKARTA",
+      "country": "INDONESIA"
+    },
+    {
+      "dmrId": 1025185,
+      "callsign": "KT26ANR",
+      "name": "ANSAR",
+      "city": "SAMARINDA",
+      "state": "KALIMANTAN TIMUR",
+      "country": "INDONESIA"
+    },
+    {
+      "dmrId": 1025186,
+      "callsign": "B26VIK",
+      "name": "AVIK HARIYANA",
+      "city": "BEKASI",
+      "state": "JAWA BARAT",
+      "country": "INDONESIA"
+    },
+    {
+      "dmrId": 1025187,
+      "callsign": "DK26ABD",
+      "name": "BAGUS DEWANGKARA",
+      "city": "DENPASAR",
+      "state": "BALI",
+      "country": "INDONESIA"
+    },
+    {
+      "dmrId": 1025188,
+      "callsign": "B26MHS",
+      "name": "MUHAMAD SAPII",
+      "city": "ADMIN. JAKARTA TIMUR",
+      "state": "DKI JAKARTA",
       "country": "INDONESIA"
     }
   ],
