@@ -181,6 +181,21 @@
       "account_validation_status": "validated"
     },
     {
+      "name": "MUMBLE TOMBOLPTT",
+      "fname": "MUMBLE TOMBOLPTT",
+      "surname": "",
+      "country": "INDONESIA",
+      "callsign": "KT26MUM",
+      "city": "BALIKPAPAN",
+      "radio_id": 1025014,
+      "id": 1025014,
+      "state": "KALIMANTAN TIMUR",
+      "has_valid_callsign": "1",
+      "has_valid_email": 0,
+      "account_unvalidated": 0,
+      "account_validation_status": "validated"
+    },
+    {
       "name": "ANDI KUSJATMIKO",
       "fname": "ANDI KUSJATMIKO",
       "surname": "",
@@ -2185,21 +2200,6 @@
       "radio_id": 1025188,
       "id": 1025188,
       "state": "DKI JAKARTA",
-      "has_valid_callsign": "1",
-      "has_valid_email": 0,
-      "account_unvalidated": 0,
-      "account_validation_status": "validated"
-    },
-    {
-      "name": "MUMBLE TOMBOLPTT",
-      "fname": "MUMBLE TOMBOLPTT",
-      "surname": "",
-      "country": "INDONESIA",
-      "callsign": "KT26MUM",
-      "city": "BALIKPAPAN",
-      "radio_id": 1025014,
-      "id": 1025014,
-      "state": "KALIMANTAN TIMUR",
       "has_valid_callsign": "1",
       "has_valid_email": 0,
       "account_unvalidated": 0,
