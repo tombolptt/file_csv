@@ -1176,6 +1176,14 @@
       "city": "ADMIN. JAKARTA TIMUR",
       "state": "DKI JAKARTA",
       "country": "INDONESIA"
+    },
+    {
+      "dmrId": 1025014,
+      "callsign": "KT26MUM",
+      "name": "MUMBLE TOMBOLPTT",
+      "city": "BALIKPAPAN",
+      "state": "KALIMANTAN TIMUR",
+      "country": "INDONESIA"
     }
   ],
   "masterServers": [
