@@ -106,6 +106,14 @@
       "country": "INDONESIA"
     },
     {
+      "dmrId": 1025014,
+      "callsign": "KT26MUM",
+      "name": "MUMBLE TOMBOLPTT",
+      "city": "BALIKPAPAN",
+      "state": "KALIMANTAN TIMUR",
+      "country": "INDONESIA"
+    },
+    {
       "dmrId": 1025015,
       "callsign": "AD25AVI",
       "name": "ANDI KUSJATMIKO",
@@ -1175,14 +1183,6 @@
       "name": "MUHAMAD SAPII",
       "city": "ADMIN. JAKARTA TIMUR",
       "state": "DKI JAKARTA",
-      "country": "INDONESIA"
-    },
-    {
-      "dmrId": 1025014,
-      "callsign": "KT26MUM",
-      "name": "MUMBLE TOMBOLPTT",
-      "city": "BALIKPAPAN",
-      "state": "KALIMANTAN TIMUR",
       "country": "INDONESIA"
     }
   ],
