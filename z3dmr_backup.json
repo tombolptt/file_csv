@@ -1184,6 +1184,14 @@
       "city": "ADMIN. JAKARTA TIMUR",
       "state": "DKI JAKARTA",
       "country": "INDONESIA"
+    },
+    {
+      "dmrId": 1025189,
+      "callsign": "B26BVW",
+      "name": "RUDI HATMAN",
+      "city": "ADMIN. JAKARTA TIMUR",
+      "state": "DKI JAKARTA",
+      "country": "INDONESIA"
     }
   ],
   "masterServers": [
