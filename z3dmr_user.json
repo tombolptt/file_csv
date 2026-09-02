@@ -2204,6 +2204,21 @@
       "has_valid_email": 0,
       "account_unvalidated": 0,
       "account_validation_status": "validated"
+    },
+    {
+      "name": "RUDI HATMAN",
+      "fname": "RUDI HATMAN",
+      "surname": "",
+      "country": "INDONESIA",
+      "callsign": "B26BVW",
+      "city": "ADMIN. JAKARTA TIMUR",
+      "radio_id": 1025189,
+      "id": 1025189,
+      "state": "DKI JAKARTA",
+      "has_valid_callsign": "1",
+      "has_valid_email": 0,
+      "account_unvalidated": 0,
+      "account_validation_status": "validated"
     }
   ]
 }
