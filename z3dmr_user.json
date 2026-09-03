@@ -2219,6 +2219,21 @@
       "has_valid_email": 0,
       "account_unvalidated": 0,
       "account_validation_status": "validated"
+    },
+    {
+      "name": "MARK PURNAMA PUTRA SAHUSILAWANE",
+      "fname": "MARK PURNAMA PUTRA SAHUSILAWANE",
+      "surname": "",
+      "country": "INDONESIA",
+      "callsign": "DE26MPS",
+      "city": "AMBON",
+      "radio_id": 1025190,
+      "id": 1025190,
+      "state": "MALUKU",
+      "has_valid_callsign": "1",
+      "has_valid_email": 0,
+      "account_unvalidated": 0,
+      "account_validation_status": "validated"
     }
   ]
 }
