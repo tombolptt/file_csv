@@ -1192,6 +1192,14 @@
       "city": "ADMIN. JAKARTA TIMUR",
       "state": "DKI JAKARTA",
       "country": "INDONESIA"
+    },
+    {
+      "dmrId": 1025190,
+      "callsign": "DE26MPS",
+      "name": "MARK PURNAMA PUTRA SAHUSILAWANE",
+      "city": "AMBON",
+      "state": "MALUKU",
+      "country": "INDONESIA"
     }
   ],
   "masterServers": [
