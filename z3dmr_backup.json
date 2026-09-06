@@ -1200,6 +1200,22 @@
       "city": "AMBON",
       "state": "MALUKU",
       "country": "INDONESIA"
+    },
+    {
+      "dmrId": 1025191,
+      "callsign": "DB26SJE",
+      "name": "DAVID TICOALU",
+      "city": "MINAHASA UTARA",
+      "state": "SULAWESI UTARA",
+      "country": "INDONESIA"
+    },
+    {
+      "dmrId": 1025192,
+      "callsign": "B26LYT",
+      "name": "EKO BUDI SUSANTO",
+      "city": "ADMIN. JAKARTA TIMUR",
+      "state": "DKI JAKARTA",
+      "country": "INDONESIA"
     }
   ],
   "masterServers": [
