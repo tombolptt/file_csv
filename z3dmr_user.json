@@ -2234,6 +2234,36 @@
       "has_valid_email": 0,
       "account_unvalidated": 0,
       "account_validation_status": "validated"
+    },
+    {
+      "name": "DAVID TICOALU",
+      "fname": "DAVID TICOALU",
+      "surname": "",
+      "country": "INDONESIA",
+      "callsign": "DB26SJE",
+      "city": "MINAHASA UTARA",
+      "radio_id": 1025191,
+      "id": 1025191,
+      "state": "SULAWESI UTARA",
+      "has_valid_callsign": "1",
+      "has_valid_email": 0,
+      "account_unvalidated": 0,
+      "account_validation_status": "validated"
+    },
+    {
+      "name": "EKO BUDI SUSANTO",
+      "fname": "EKO BUDI SUSANTO",
+      "surname": "",
+      "country": "INDONESIA",
+      "callsign": "B26LYT",
+      "city": "ADMIN. JAKARTA TIMUR",
+      "radio_id": 1025192,
+      "id": 1025192,
+      "state": "DKI JAKARTA",
+      "has_valid_callsign": "1",
+      "has_valid_email": 0,
+      "account_unvalidated": 0,
+      "account_validation_status": "validated"
     }
   ]
 }
