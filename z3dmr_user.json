@@ -2279,6 +2279,51 @@
       "has_valid_email": 0,
       "account_unvalidated": 0,
       "account_validation_status": "validated"
+    },
+    {
+      "name": "HERMITS ANAMOFA",
+      "fname": "HERMITS ANAMOFA",
+      "surname": "",
+      "country": "INDONESIA",
+      "callsign": "DE26HSA",
+      "city": "AMBON",
+      "radio_id": 1025193,
+      "id": 1025193,
+      "state": "MALUKU",
+      "has_valid_callsign": "1",
+      "has_valid_email": 0,
+      "account_unvalidated": 0,
+      "account_validation_status": "validated"
+    },
+    {
+      "name": "MARSIL BERNARD",
+      "fname": "MARSIL BERNARD",
+      "surname": "",
+      "country": "INDONESIA",
+      "callsign": "DE26MLB",
+      "city": "AMBON",
+      "radio_id": 1025194,
+      "id": 1025194,
+      "state": "MALUKU",
+      "has_valid_callsign": "1",
+      "has_valid_email": 0,
+      "account_unvalidated": 0,
+      "account_validation_status": "validated"
+    },
+    {
+      "name": "GLENN HANS MARUANAYA",
+      "fname": "GLENN HANS MARUANAYA",
+      "surname": "",
+      "country": "INDONESIA",
+      "callsign": "DE26GHM",
+      "city": "AMBON",
+      "radio_id": 1025195,
+      "id": 1025195,
+      "state": "MALUKU",
+      "has_valid_callsign": "1",
+      "has_valid_email": 0,
+      "account_unvalidated": 0,
+      "account_validation_status": "validated"
     }
   ]
 }
