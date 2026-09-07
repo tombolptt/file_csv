@@ -1216,6 +1216,14 @@
       "city": "ADMIN. JAKARTA TIMUR",
       "state": "DKI JAKARTA",
       "country": "INDONESIA"
+    },
+    {
+      "dmrId": 1025016,
+      "callsign": "KT26TSP",
+      "name": "LINK TS3 TOMBOLPTT",
+      "city": "BALIKPAPAN",
+      "state": "KALIMANTAN TIMUR",
+      "country": "INDONESIA"
     }
   ],
   "masterServers": [
