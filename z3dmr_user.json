@@ -2324,6 +2324,21 @@
       "has_valid_email": 0,
       "account_unvalidated": 0,
       "account_validation_status": "validated"
+    },
+    {
+      "name": "EKO PRASETYANTO",
+      "fname": "EKO PRASETYANTO",
+      "surname": "",
+      "country": "INDONESIA",
+      "callsign": "L26EPO",
+      "city": "SURABAYA",
+      "radio_id": 1025196,
+      "id": 1025196,
+      "state": "JAWA TIMUR",
+      "has_valid_callsign": "1",
+      "has_valid_email": 0,
+      "account_unvalidated": 0,
+      "account_validation_status": "validated"
     }
   ]
 }
