@@ -1248,6 +1248,14 @@
       "city": "AMBON",
       "state": "MALUKU",
       "country": "INDONESIA"
+    },
+    {
+      "dmrId": 1025196,
+      "callsign": "L26EPO",
+      "name": "EKO PRASETYANTO",
+      "city": "SURABAYA",
+      "state": "JAWA TIMUR",
+      "country": "INDONESIA"
     }
   ],
   "masterServers": [
