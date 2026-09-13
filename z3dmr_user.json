@@ -2339,6 +2339,36 @@
       "has_valid_email": 0,
       "account_unvalidated": 0,
       "account_validation_status": "validated"
+    },
+    {
+      "name": "AHMAD SAHID",
+      "fname": "AHMAD SAHID",
+      "surname": "",
+      "country": "INDONESIA",
+      "callsign": "Z26AHS",
+      "city": "GARUT",
+      "radio_id": 1025197,
+      "id": 1025197,
+      "state": "JAWA BARAT",
+      "has_valid_callsign": "1",
+      "has_valid_email": 0,
+      "account_unvalidated": 0,
+      "account_validation_status": "validated"
+    },
+    {
+      "name": "ABRAHAM",
+      "fname": "ABRAHAM",
+      "surname": "",
+      "country": "INDONESIA",
+      "callsign": "B26BWP",
+      "city": "ADMIN. JAKARTA SELATAN",
+      "radio_id": 1025198,
+      "id": 1025198,
+      "state": "DKI JAKARTA",
+      "has_valid_callsign": "1",
+      "has_valid_email": 0,
+      "account_unvalidated": 0,
+      "account_validation_status": "validated"
     }
   ]
 }
