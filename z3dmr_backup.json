@@ -1256,6 +1256,22 @@
       "city": "SURABAYA",
       "state": "JAWA TIMUR",
       "country": "INDONESIA"
+    },
+    {
+      "dmrId": 1025197,
+      "callsign": "Z26AHS",
+      "name": "AHMAD SAHID",
+      "city": "GARUT",
+      "state": "JAWA BARAT",
+      "country": "INDONESIA"
+    },
+    {
+      "dmrId": 1025198,
+      "callsign": "B26BWP",
+      "name": "ABRAHAM",
+      "city": "ADMIN. JAKARTA SELATAN",
+      "state": "DKI JAKARTA",
+      "country": "INDONESIA"
     }
   ],
   "masterServers": [
