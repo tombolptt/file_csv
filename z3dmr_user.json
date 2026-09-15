@@ -2369,6 +2369,21 @@
       "has_valid_email": 0,
       "account_unvalidated": 0,
       "account_validation_status": "validated"
+    },
+    {
+      "name": "SLAMET INDRIATMADI",
+      "fname": "SLAMET INDRIATMADI",
+      "surname": "",
+      "country": "INDONESIA",
+      "callsign": "S26SID",
+      "city": "JOMBANG",
+      "radio_id": 1025199,
+      "id": 1025199,
+      "state": "JAWA TIMUR",
+      "has_valid_callsign": "1",
+      "has_valid_email": 0,
+      "account_unvalidated": 0,
+      "account_validation_status": "validated"
     }
   ]
 }
