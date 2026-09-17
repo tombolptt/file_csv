@@ -2384,6 +2384,21 @@
       "has_valid_email": 0,
       "account_unvalidated": 0,
       "account_validation_status": "validated"
+    },
+    {
+      "name": "ANDRIK RIZKI ROHMADANI",
+      "fname": "ANDRIK RIZKI ROHMADANI",
+      "surname": "",
+      "country": "INDONESIA",
+      "callsign": "KT26ARR",
+      "city": "KUTAI KARTANEGARA",
+      "radio_id": 1025200,
+      "id": 1025200,
+      "state": "KALIMANTAN TIMUR",
+      "has_valid_callsign": "1",
+      "has_valid_email": 0,
+      "account_unvalidated": 0,
+      "account_validation_status": "validated"
     }
   ]
 }
