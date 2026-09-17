@@ -1280,6 +1280,14 @@
       "city": "JOMBANG",
       "state": "JAWA TIMUR",
       "country": "INDONESIA"
+    },
+    {
+      "dmrId": 1025200,
+      "callsign": "KT26ARR",
+      "name": "ANDRIK RIZKI ROHMADANI",
+      "city": "KUTAI KARTANEGARA",
+      "state": "KALIMANTAN TIMUR",
+      "country": "INDONESIA"
     }
   ],
   "masterServers": [
