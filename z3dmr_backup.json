@@ -1280,6 +1280,22 @@
       "city": "KUTAI KARTANEGARA",
       "state": "KALIMANTAN TIMUR",
       "country": "INDONESIA"
+    },
+    {
+      "dmrId": 1025201,
+      "callsign": "K26AGC",
+      "name": "AGUS CAHYONO",
+      "city": "GROBOGAN",
+      "state": "JAWA TENGAH",
+      "country": "INDONESIA"
+    },
+    {
+      "dmrId": 1025202,
+      "callsign": "B26AHJ",
+      "name": "HERRY KRISNADI",
+      "city": "ADMIN. JAKARTA TIMUR",
+      "state": "DKI JAKARTA",
+      "country": "INDONESIA"
     }
   ],
   "masterServers": [
