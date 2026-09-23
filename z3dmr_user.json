@@ -2414,6 +2414,21 @@
       "has_valid_email": 0,
       "account_unvalidated": 0,
       "account_validation_status": "validated"
+    },
+    {
+      "name": "JAMAL DAENG MATERENG",
+      "fname": "JAMAL DAENG MATERENG",
+      "surname": "",
+      "country": "INDONESIA",
+      "callsign": "BH26BNP",
+      "city": "TANJUNG JABUNG TIMUR",
+      "radio_id": 1025203,
+      "id": 1025203,
+      "state": "JAMBI",
+      "has_valid_callsign": "1",
+      "has_valid_email": 0,
+      "account_unvalidated": 0,
+      "account_validation_status": "validated"
     }
   ]
 }
