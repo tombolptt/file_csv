@@ -2459,6 +2459,36 @@
       "has_valid_email": 0,
       "account_unvalidated": 0,
       "account_validation_status": "validated"
+    },
+    {
+      "name": "DENI KRISTIAN",
+      "fname": "DENI KRISTIAN",
+      "surname": "",
+      "country": "INDONESIA",
+      "callsign": "T26DKN",
+      "city": "KARAWANG",
+      "radio_id": 1025206,
+      "id": 1025206,
+      "state": "JAWA BARAT",
+      "has_valid_callsign": "1",
+      "has_valid_email": 0,
+      "account_unvalidated": 0,
+      "account_validation_status": "validated"
+    },
+    {
+      "name": "EKO ARIADI",
+      "fname": "EKO ARIADI",
+      "surname": "",
+      "country": "INDONESIA",
+      "callsign": "L26YCO",
+      "city": "SURABAYA",
+      "radio_id": 1025207,
+      "id": 1025207,
+      "state": "JAWA TIMUR",
+      "has_valid_callsign": "1",
+      "has_valid_email": 0,
+      "account_unvalidated": 0,
+      "account_validation_status": "validated"
     }
   ]
 }
