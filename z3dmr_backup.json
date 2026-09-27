@@ -1320,6 +1320,22 @@
       "city": "DEPOK",
       "state": "JAWA BARAT",
       "country": "INDONESIA"
+    },
+    {
+      "dmrId": 1025206,
+      "callsign": "T26DKN",
+      "name": "DENI KRISTIAN",
+      "city": "KARAWANG",
+      "state": "JAWA BARAT",
+      "country": "INDONESIA"
+    },
+    {
+      "dmrId": 1025207,
+      "callsign": "L26YCO",
+      "name": "EKO ARIADI",
+      "city": "SURABAYA",
+      "state": "JAWA TIMUR",
+      "country": "INDONESIA"
     }
   ],
   "masterServers": [
