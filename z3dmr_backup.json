@@ -1304,6 +1304,14 @@
       "city": "TANJUNG JABUNG TIMUR",
       "state": "JAMBI",
       "country": "INDONESIA"
+    },
+    {
+      "dmrId": 1025204,
+      "callsign": "Z26TIK",
+      "name": "ENTIKSANTIKA",
+      "city": "TASIKMALAYA",
+      "state": "JAWA BARAT",
+      "country": "INDONESIA"
     }
   ],
   "masterServers": [
