@@ -1312,6 +1312,14 @@
       "city": "TASIKMALAYA",
       "state": "JAWA BARAT",
       "country": "INDONESIA"
+    },
+    {
+      "dmrId": 1025205,
+      "callsign": "B26DHY",
+      "name": "DUYEH HENDY",
+      "city": "DEPOK",
+      "state": "JAWA BARAT",
+      "country": "INDONESIA"
     }
   ],
   "masterServers": [
