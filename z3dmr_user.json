@@ -2444,6 +2444,21 @@
       "has_valid_email": 0,
       "account_unvalidated": 0,
       "account_validation_status": "validated"
+    },
+    {
+      "name": "DUYEH HENDY",
+      "fname": "DUYEH HENDY",
+      "surname": "",
+      "country": "INDONESIA",
+      "callsign": "B26DHY",
+      "city": "DEPOK",
+      "radio_id": 1025205,
+      "id": 1025205,
+      "state": "JAWA BARAT",
+      "has_valid_callsign": "1",
+      "has_valid_email": 0,
+      "account_unvalidated": 0,
+      "account_validation_status": "validated"
     }
   ]
 }
