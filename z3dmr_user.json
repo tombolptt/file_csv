@@ -2489,6 +2489,36 @@
       "has_valid_email": 0,
       "account_unvalidated": 0,
       "account_validation_status": "validated"
+    },
+    {
+      "name": "SRI INDARTI",
+      "fname": "SRI INDARTI",
+      "surname": "",
+      "country": "INDONESIA",
+      "callsign": "G26MNC",
+      "city": "TEGAL",
+      "radio_id": 1025208,
+      "id": 1025208,
+      "state": "JAWA TENGAH",
+      "has_valid_callsign": "1",
+      "has_valid_email": 0,
+      "account_unvalidated": 0,
+      "account_validation_status": "validated"
+    },
+    {
+      "name": "SATYA FITRIANSYAH ST",
+      "fname": "SATYA FITRIANSYAH ST",
+      "surname": "",
+      "country": "INDONESIA",
+      "callsign": "D26KED",
+      "city": "BANDUNG",
+      "radio_id": 1025209,
+      "id": 1025209,
+      "state": "JAWA BARAT",
+      "has_valid_callsign": "1",
+      "has_valid_email": 0,
+      "account_unvalidated": 0,
+      "account_validation_status": "validated"
     }
   ]
 }
