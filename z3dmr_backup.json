@@ -1336,6 +1336,22 @@
       "city": "SURABAYA",
       "state": "JAWA TIMUR",
       "country": "INDONESIA"
+    },
+    {
+      "dmrId": 1025208,
+      "callsign": "G26MNC",
+      "name": "SRI INDARTI",
+      "city": "TEGAL",
+      "state": "JAWA TENGAH",
+      "country": "INDONESIA"
+    },
+    {
+      "dmrId": 1025209,
+      "callsign": "D26KED",
+      "name": "SATYA FITRIANSYAH ST",
+      "city": "BANDUNG",
+      "state": "JAWA BARAT",
+      "country": "INDONESIA"
     }
   ],
   "masterServers": [
