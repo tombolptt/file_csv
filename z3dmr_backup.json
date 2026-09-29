@@ -1368,6 +1368,14 @@
       "city": "BANDUNG BARAT",
       "state": "JAWA BARAT",
       "country": "INDONESIA"
+    },
+    {
+      "dmrId": 1025212,
+      "callsign": "Z26APO",
+      "name": "ASEPSUWITO",
+      "city": "TASIKMALAYA",
+      "state": "JAWA BARAT",
+      "country": "INDONESIA"
     }
   ],
   "masterServers": [
