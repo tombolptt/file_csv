@@ -1360,6 +1360,14 @@
       "city": "TEGAL",
       "state": "JAWA TENGAH",
       "country": "INDONESIA"
+    },
+    {
+      "dmrId": 1025211,
+      "callsign": "D26RLN",
+      "name": "RIZAL MUTAQIN",
+      "city": "BANDUNG BARAT",
+      "state": "JAWA BARAT",
+      "country": "INDONESIA"
     }
   ],
   "masterServers": [
