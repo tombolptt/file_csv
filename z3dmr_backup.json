@@ -1376,6 +1376,14 @@
       "city": "TASIKMALAYA",
       "state": "JAWA BARAT",
       "country": "INDONESIA"
+    },
+    {
+      "dmrId": 1025213,
+      "callsign": "DD26HYS",
+      "name": "HENDRY SALIM",
+      "city": "MAKASSAR",
+      "state": "SULAWESI SELATAN",
+      "country": "INDONESIA"
     }
   ],
   "masterServers": [
