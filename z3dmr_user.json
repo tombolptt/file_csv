@@ -2534,6 +2534,21 @@
       "has_valid_email": 0,
       "account_unvalidated": 0,
       "account_validation_status": "validated"
+    },
+    {
+      "name": "RIZAL MUTAQIN",
+      "fname": "RIZAL MUTAQIN",
+      "surname": "",
+      "country": "INDONESIA",
+      "callsign": "D26RLN",
+      "city": "BANDUNG BARAT",
+      "radio_id": 1025211,
+      "id": 1025211,
+      "state": "JAWA BARAT",
+      "has_valid_callsign": "1",
+      "has_valid_email": 0,
+      "account_unvalidated": 0,
+      "account_validation_status": "validated"
     }
   ]
 }
