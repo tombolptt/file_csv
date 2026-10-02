@@ -1384,6 +1384,14 @@
       "city": "MAKASSAR",
       "state": "SULAWESI SELATAN",
       "country": "INDONESIA"
+    },
+    {
+      "dmrId": 1025214,
+      "callsign": "B26WTO",
+      "name": "WARTONO",
+      "city": "ADMIN. JAKARTA SELATAN",
+      "state": "DKI JAKARTA",
+      "country": "INDONESIA"
     }
   ],
   "masterServers": [
