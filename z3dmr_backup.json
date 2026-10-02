@@ -1392,6 +1392,22 @@
       "city": "ADMIN. JAKARTA SELATAN",
       "state": "DKI JAKARTA",
       "country": "INDONESIA"
+    },
+    {
+      "dmrId": 1025215,
+      "callsign": "G26HIT",
+      "name": "HENDRA PRAYITNO",
+      "city": "TEGAL",
+      "state": "JAWA TENGAH",
+      "country": "INDONESIA"
+    },
+    {
+      "dmrId": 1025216,
+      "callsign": "BL26ATD",
+      "name": "EDI SAHPUTRA",
+      "city": "ACEH TENGAH",
+      "state": "ACEH",
+      "country": "INDONESIA"
     }
   ],
   "masterServers": [
