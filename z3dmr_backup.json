@@ -1408,6 +1408,14 @@
       "city": "ACEH TENGAH",
       "state": "ACEH",
       "country": "INDONESIA"
+    },
+    {
+      "dmrId": 1025217,
+      "callsign": "F26CMA",
+      "name": "CECEP MULYANA",
+      "city": "BOGOR",
+      "state": "JAWA BARAT",
+      "country": "INDONESIA"
     }
   ],
   "masterServers": [
