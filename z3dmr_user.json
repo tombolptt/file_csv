@@ -2624,6 +2624,21 @@
       "has_valid_email": 0,
       "account_unvalidated": 0,
       "account_validation_status": "validated"
+    },
+    {
+      "name": "CECEP MULYANA",
+      "fname": "CECEP MULYANA",
+      "surname": "",
+      "country": "INDONESIA",
+      "callsign": "F26CMA",
+      "city": "BOGOR",
+      "radio_id": 1025217,
+      "id": 1025217,
+      "state": "JAWA BARAT",
+      "has_valid_callsign": "1",
+      "has_valid_email": 0,
+      "account_unvalidated": 0,
+      "account_validation_status": "validated"
     }
   ]
 }
