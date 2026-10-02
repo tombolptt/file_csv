@@ -2594,6 +2594,36 @@
       "has_valid_email": 0,
       "account_unvalidated": 0,
       "account_validation_status": "validated"
+    },
+    {
+      "name": "HENDRA PRAYITNO",
+      "fname": "HENDRA PRAYITNO",
+      "surname": "",
+      "country": "INDONESIA",
+      "callsign": "G26HIT",
+      "city": "TEGAL",
+      "radio_id": 1025215,
+      "id": 1025215,
+      "state": "JAWA TENGAH",
+      "has_valid_callsign": "1",
+      "has_valid_email": 0,
+      "account_unvalidated": 0,
+      "account_validation_status": "validated"
+    },
+    {
+      "name": "EDI SAHPUTRA",
+      "fname": "EDI SAHPUTRA",
+      "surname": "",
+      "country": "INDONESIA",
+      "callsign": "BL26ATD",
+      "city": "ACEH TENGAH",
+      "radio_id": 1025216,
+      "id": 1025216,
+      "state": "ACEH",
+      "has_valid_callsign": "1",
+      "has_valid_email": 0,
+      "account_unvalidated": 0,
+      "account_validation_status": "validated"
     }
   ]
 }
