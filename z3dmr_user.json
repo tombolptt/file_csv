@@ -2684,6 +2684,21 @@
       "has_valid_email": 0,
       "account_unvalidated": 0,
       "account_validation_status": "validated"
+    },
+    {
+      "name": "WIRAWAN",
+      "fname": "WIRAWAN",
+      "surname": "",
+      "country": "INDONESIA",
+      "callsign": "AD26RAI",
+      "city": "KARANGANYAR",
+      "radio_id": 1025221,
+      "id": 1025221,
+      "state": "JAWA TENGAH",
+      "has_valid_callsign": "1",
+      "has_valid_email": 0,
+      "account_unvalidated": 0,
+      "account_validation_status": "validated"
     }
   ]
 }
