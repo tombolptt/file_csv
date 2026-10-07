@@ -1424,6 +1424,14 @@
       "city": "ADMIN. JAKARTA TIMUR",
       "state": "DKI JAKARTA",
       "country": "INDONESIA"
+    },
+    {
+      "dmrId": 1025219,
+      "callsign": "B26MHD",
+      "name": "MUHAMMAD AIDIL FAHMY",
+      "city": "BEKASI",
+      "state": "JAWA BARAT",
+      "country": "INDONESIA"
     }
   ],
   "masterServers": [
