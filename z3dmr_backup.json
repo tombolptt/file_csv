@@ -1416,6 +1416,14 @@
       "city": "BOGOR",
       "state": "JAWA BARAT",
       "country": "INDONESIA"
+    },
+    {
+      "dmrId": 1025218,
+      "callsign": "B26AAR",
+      "name": "ANDREASEKOJOKOPRASETYO",
+      "city": "ADMIN. JAKARTA TIMUR",
+      "state": "DKI JAKARTA",
+      "country": "INDONESIA"
     }
   ],
   "masterServers": [
