@@ -2639,6 +2639,21 @@
       "has_valid_email": 0,
       "account_unvalidated": 0,
       "account_validation_status": "validated"
+    },
+    {
+      "name": "ANDREASEKOJOKOPRASETYO",
+      "fname": "ANDREASEKOJOKOPRASETYO",
+      "surname": "",
+      "country": "INDONESIA",
+      "callsign": "B26AAR",
+      "city": "ADMIN. JAKARTA TIMUR",
+      "radio_id": 1025218,
+      "id": 1025218,
+      "state": "DKI JAKARTA",
+      "has_valid_callsign": "1",
+      "has_valid_email": 0,
+      "account_unvalidated": 0,
+      "account_validation_status": "validated"
     }
   ]
 }
