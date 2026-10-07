@@ -1432,6 +1432,14 @@
       "city": "BEKASI",
       "state": "JAWA BARAT",
       "country": "INDONESIA"
+    },
+    {
+      "dmrId": 1025220,
+      "callsign": "F26MUB",
+      "name": "MUHAMMAD RHEZA MUZTAHID",
+      "city": "BOGOR",
+      "state": "JAWA BARAT",
+      "country": "INDONESIA"
     }
   ],
   "masterServers": [
