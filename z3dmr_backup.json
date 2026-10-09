@@ -1448,6 +1448,14 @@
       "city": "KARANGANYAR",
       "state": "JAWA TENGAH",
       "country": "INDONESIA"
+    },
+    {
+      "dmrId": 1025222,
+      "callsign": "AD26NAZ",
+      "name": "M NAZIR HASAN",
+      "city": "KLATEN",
+      "state": "JAWA TENGAH",
+      "country": "INDONESIA"
     }
   ],
   "masterServers": [
