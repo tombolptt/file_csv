@@ -2699,6 +2699,21 @@
       "has_valid_email": 0,
       "account_unvalidated": 0,
       "account_validation_status": "validated"
+    },
+    {
+      "name": "M NAZIR HASAN",
+      "fname": "M NAZIR HASAN",
+      "surname": "",
+      "country": "INDONESIA",
+      "callsign": "AD26NAZ",
+      "city": "KLATEN",
+      "radio_id": 1025222,
+      "id": 1025222,
+      "state": "JAWA TENGAH",
+      "has_valid_callsign": "1",
+      "has_valid_email": 0,
+      "account_unvalidated": 0,
+      "account_validation_status": "validated"
     }
   ]
 }
