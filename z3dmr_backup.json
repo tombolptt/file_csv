@@ -1456,6 +1456,14 @@
       "city": "KLATEN",
       "state": "JAWA TENGAH",
       "country": "INDONESIA"
+    },
+    {
+      "dmrId": 1025223,
+      "callsign": "BH26BVX",
+      "name": "WAHYU KAMARUDDIN",
+      "city": "JAMBI",
+      "state": "JAMBI",
+      "country": "INDONESIA"
     }
   ],
   "masterServers": [
