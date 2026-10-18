@@ -2729,6 +2729,21 @@
       "has_valid_email": 0,
       "account_unvalidated": 0,
       "account_validation_status": "validated"
+    },
+    {
+      "name": "WISNU DEWANTO",
+      "fname": "WISNU DEWANTO",
+      "surname": "",
+      "country": "INDONESIA",
+      "callsign": "B26WSD",
+      "city": "TANGERANG",
+      "radio_id": 1025224,
+      "id": 1025224,
+      "state": "BANTEN",
+      "has_valid_callsign": "1",
+      "has_valid_email": 0,
+      "account_unvalidated": 0,
+      "account_validation_status": "validated"
     }
   ]
 }
