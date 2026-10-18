@@ -1464,6 +1464,14 @@
       "city": "JAMBI",
       "state": "JAMBI",
       "country": "INDONESIA"
+    },
+    {
+      "dmrId": 1025224,
+      "callsign": "B26WSD",
+      "name": "WISNU DEWANTO",
+      "city": "TANGERANG",
+      "state": "BANTEN",
+      "country": "INDONESIA"
     }
   ],
   "masterServers": [
