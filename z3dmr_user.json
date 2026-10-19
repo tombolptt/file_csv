@@ -2744,6 +2744,21 @@
       "has_valid_email": 0,
       "account_unvalidated": 0,
       "account_validation_status": "validated"
+    },
+    {
+      "name": "ANDI PRABOWO",
+      "fname": "ANDI PRABOWO",
+      "surname": "",
+      "country": "INDONESIA",
+      "callsign": "A26ANP",
+      "city": "LEBAK",
+      "radio_id": 1025225,
+      "id": 1025225,
+      "state": "BANTEN",
+      "has_valid_callsign": "1",
+      "has_valid_email": 0,
+      "account_unvalidated": 0,
+      "account_validation_status": "validated"
     }
   ]
 }
