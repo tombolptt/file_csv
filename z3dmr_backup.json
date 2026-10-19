@@ -1472,6 +1472,14 @@
       "city": "TANGERANG",
       "state": "BANTEN",
       "country": "INDONESIA"
+    },
+    {
+      "dmrId": 1025225,
+      "callsign": "A26ANP",
+      "name": "ANDI PRABOWO",
+      "city": "LEBAK",
+      "state": "BANTEN",
+      "country": "INDONESIA"
     }
   ],
   "masterServers": [
