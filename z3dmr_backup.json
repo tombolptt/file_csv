@@ -1480,6 +1480,14 @@
       "city": "LEBAK",
       "state": "BANTEN",
       "country": "INDONESIA"
+    },
+    {
+      "dmrId": 1025226,
+      "callsign": "BK26BJZ",
+      "name": "DEDEN HERDIANSYAH",
+      "city": "DELI SERDANG",
+      "state": "SUMATERA UTARA",
+      "country": "INDONESIA"
     }
   ],
   "masterServers": [
