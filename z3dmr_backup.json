@@ -1488,6 +1488,22 @@
       "city": "DELI SERDANG",
       "state": "SUMATERA UTARA",
       "country": "INDONESIA"
+    },
+    {
+      "dmrId": 1025227,
+      "callsign": "BL26DFP",
+      "name": "ALIM RIAYATSYAH",
+      "city": "ACEH BARAT DAYA",
+      "state": "ACEH",
+      "country": "INDONESIA"
+    },
+    {
+      "dmrId": 1025228,
+      "callsign": "KT26MDW",
+      "name": "MUHAMMAD WARDANA",
+      "city": "KUTAI KARTANEGARA",
+      "state": "KALIMANTAN TIMUR",
+      "country": "INDONESIA"
     }
   ],
   "masterServers": [
