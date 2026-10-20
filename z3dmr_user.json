@@ -2774,6 +2774,36 @@
       "has_valid_email": 0,
       "account_unvalidated": 0,
       "account_validation_status": "validated"
+    },
+    {
+      "name": "ALIM RIAYATSYAH",
+      "fname": "ALIM RIAYATSYAH",
+      "surname": "",
+      "country": "INDONESIA",
+      "callsign": "BL26DFP",
+      "city": "ACEH BARAT DAYA",
+      "radio_id": 1025227,
+      "id": 1025227,
+      "state": "ACEH",
+      "has_valid_callsign": "1",
+      "has_valid_email": 0,
+      "account_unvalidated": 0,
+      "account_validation_status": "validated"
+    },
+    {
+      "name": "MUHAMMAD WARDANA",
+      "fname": "MUHAMMAD WARDANA",
+      "surname": "",
+      "country": "INDONESIA",
+      "callsign": "KT26MDW",
+      "city": "KUTAI KARTANEGARA",
+      "radio_id": 1025228,
+      "id": 1025228,
+      "state": "KALIMANTAN TIMUR",
+      "has_valid_callsign": "1",
+      "has_valid_email": 0,
+      "account_unvalidated": 0,
+      "account_validation_status": "validated"
     }
   ]
 }
