@@ -1504,6 +1504,14 @@
       "city": "KUTAI KARTANEGARA",
       "state": "KALIMANTAN TIMUR",
       "country": "INDONESIA"
+    },
+    {
+      "dmrId": 1025229,
+      "callsign": "B26DNY",
+      "name": "DONY",
+      "city": "ADMIN. JAKARTA SELATAN",
+      "state": "DKI JAKARTA",
+      "country": "INDONESIA"
     }
   ],
   "masterServers": [
