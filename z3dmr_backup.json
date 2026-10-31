@@ -1520,6 +1520,14 @@
       "city": "BENGKALIS",
       "state": "RIAU",
       "country": "INDONESIA"
+    },
+    {
+      "dmrId": 1025231,
+      "callsign": "DM26GAS",
+      "name": "ALIMIN HUSAIN",
+      "city": "BONE BOLANGO",
+      "state": "GORONTALO",
+      "country": "INDONESIA"
     }
   ],
   "masterServers": [
