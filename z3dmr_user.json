@@ -2834,6 +2834,21 @@
       "has_valid_email": 0,
       "account_unvalidated": 0,
       "account_validation_status": "validated"
+    },
+    {
+      "name": "ALIMIN HUSAIN",
+      "fname": "ALIMIN HUSAIN",
+      "surname": "",
+      "country": "INDONESIA",
+      "callsign": "DM26GAS",
+      "city": "BONE BOLANGO",
+      "radio_id": 1025231,
+      "id": 1025231,
+      "state": "GORONTALO",
+      "has_valid_callsign": "1",
+      "has_valid_email": 0,
+      "account_unvalidated": 0,
+      "account_validation_status": "validated"
     }
   ]
 }
