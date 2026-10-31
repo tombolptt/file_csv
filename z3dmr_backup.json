@@ -1512,6 +1512,14 @@
       "city": "ADMIN. JAKARTA SELATAN",
       "state": "DKI JAKARTA",
       "country": "INDONESIA"
+    },
+    {
+      "dmrId": 1025230,
+      "callsign": "BM26EZX",
+      "name": "ANANG TRI HARTANTO",
+      "city": "BENGKALIS",
+      "state": "RIAU",
+      "country": "INDONESIA"
     }
   ],
   "masterServers": [
