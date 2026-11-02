@@ -2849,6 +2849,21 @@
       "has_valid_email": 0,
       "account_unvalidated": 0,
       "account_validation_status": "validated"
+    },
+    {
+      "name": "AGUS SUPRIYADI",
+      "fname": "AGUS SUPRIYADI",
+      "surname": "",
+      "country": "INDONESIA",
+      "callsign": "BG26NTI",
+      "city": "MUSI RAWAS",
+      "radio_id": 1025232,
+      "id": 1025232,
+      "state": "SUMATERA SELATAN",
+      "has_valid_callsign": "1",
+      "has_valid_email": 0,
+      "account_unvalidated": 0,
+      "account_validation_status": "validated"
     }
   ]
 }
