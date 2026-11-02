@@ -1528,6 +1528,14 @@
       "city": "BONE BOLANGO",
       "state": "GORONTALO",
       "country": "INDONESIA"
+    },
+    {
+      "dmrId": 1025232,
+      "callsign": "BG26NTI",
+      "name": "AGUS SUPRIYADI",
+      "city": "MUSI RAWAS",
+      "state": "SUMATERA SELATAN",
+      "country": "INDONESIA"
     }
   ],
   "masterServers": [
