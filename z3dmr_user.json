@@ -2864,6 +2864,21 @@
       "has_valid_email": 0,
       "account_unvalidated": 0,
       "account_validation_status": "validated"
+    },
+    {
+      "name": "ANASRIKIN",
+      "fname": "ANASRIKIN",
+      "surname": "",
+      "country": "INDONESIA",
+      "callsign": "K26ASR",
+      "city": "JEPARA",
+      "radio_id": 1025233,
+      "id": 1025233,
+      "state": "JAWA TENGAH",
+      "has_valid_callsign": "1",
+      "has_valid_email": 0,
+      "account_unvalidated": 0,
+      "account_validation_status": "validated"
     }
   ]
 }
