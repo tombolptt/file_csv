@@ -1536,6 +1536,14 @@
       "city": "MUSI RAWAS",
       "state": "SUMATERA SELATAN",
       "country": "INDONESIA"
+    },
+    {
+      "dmrId": 1025233,
+      "callsign": "K26ASR",
+      "name": "ANASRIKIN",
+      "city": "JEPARA",
+      "state": "JAWA TENGAH",
+      "country": "INDONESIA"
     }
   ],
   "masterServers": [
