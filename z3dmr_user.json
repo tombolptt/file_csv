@@ -2879,6 +2879,36 @@
       "has_valid_email": 0,
       "account_unvalidated": 0,
       "account_validation_status": "validated"
+    },
+    {
+      "name": "ERICK ESTRADA",
+      "fname": "ERICK ESTRADA",
+      "surname": "",
+      "country": "INDONESIA",
+      "callsign": "PA26AGB",
+      "city": "JAYAPURA",
+      "radio_id": 1025235,
+      "id": 1025235,
+      "state": "PAPUA",
+      "has_valid_callsign": "1",
+      "has_valid_email": 0,
+      "account_unvalidated": 0,
+      "account_validation_status": "validated"
+    },
+    {
+      "name": "MOCHAMMAD KHOIRON",
+      "fname": "MOCHAMMAD KHOIRON",
+      "surname": "",
+      "country": "INDONESIA",
+      "callsign": "S26DGX",
+      "city": "MOJOKERTO",
+      "radio_id": 1025234,
+      "id": 1025234,
+      "state": "JAWA TIMUR",
+      "has_valid_callsign": "1",
+      "has_valid_email": 0,
+      "account_unvalidated": 0,
+      "account_validation_status": "validated"
     }
   ]
 }
