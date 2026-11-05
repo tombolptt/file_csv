@@ -1544,6 +1544,22 @@
       "city": "JEPARA",
       "state": "JAWA TENGAH",
       "country": "INDONESIA"
+    },
+    {
+      "dmrId": 1025235,
+      "callsign": "PA26AGB",
+      "name": "ERICK ESTRADA",
+      "city": "JAYAPURA",
+      "state": "PAPUA",
+      "country": "INDONESIA"
+    },
+    {
+      "dmrId": 1025234,
+      "callsign": "S26DGX",
+      "name": "MOCHAMMAD KHOIRON",
+      "city": "MOJOKERTO",
+      "state": "JAWA TIMUR",
+      "country": "INDONESIA"
     }
   ],
   "masterServers": [
