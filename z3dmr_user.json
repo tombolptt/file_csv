@@ -2909,6 +2909,21 @@
       "has_valid_email": 0,
       "account_unvalidated": 0,
       "account_validation_status": "validated"
+    },
+    {
+      "name": "BUDI DARMA AJI",
+      "fname": "BUDI DARMA AJI",
+      "surname": "",
+      "country": "INDONESIA",
+      "callsign": "B26BDA",
+      "city": "ADMIN. JAKARTA SELATAN",
+      "radio_id": 1025236,
+      "id": 1025236,
+      "state": "DKI JAKARTA",
+      "has_valid_callsign": "1",
+      "has_valid_email": 0,
+      "account_unvalidated": 0,
+      "account_validation_status": "validated"
     }
   ]
 }
