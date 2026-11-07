@@ -2924,6 +2924,21 @@
       "has_valid_email": 0,
       "account_unvalidated": 0,
       "account_validation_status": "validated"
+    },
+    {
+      "name": "A IMAM ZULFIKAR MUSTAMAN",
+      "fname": "A IMAM ZULFIKAR MUSTAMAN",
+      "surname": "",
+      "country": "INDONESIA",
+      "callsign": "DD26BOT",
+      "city": "MAKASSAR",
+      "radio_id": 1025237,
+      "id": 1025237,
+      "state": "SULAWESI SELATAN",
+      "has_valid_callsign": "1",
+      "has_valid_email": 0,
+      "account_unvalidated": 0,
+      "account_validation_status": "validated"
     }
   ]
 }
