@@ -1568,6 +1568,14 @@
       "city": "ADMIN. JAKARTA SELATAN",
       "state": "DKI JAKARTA",
       "country": "INDONESIA"
+    },
+    {
+      "dmrId": 1025237,
+      "callsign": "DD26BOT",
+      "name": "A IMAM ZULFIKAR MUSTAMAN",
+      "city": "MAKASSAR",
+      "state": "SULAWESI SELATAN",
+      "country": "INDONESIA"
     }
   ],
   "masterServers": [
