@@ -1576,6 +1576,14 @@
       "city": "MAKASSAR",
       "state": "SULAWESI SELATAN",
       "country": "INDONESIA"
+    },
+    {
+      "dmrId": 1025238,
+      "callsign": "G26CUK",
+      "name": "ROSIHIN",
+      "city": "TEGAL",
+      "state": "JAWA TENGAH",
+      "country": "INDONESIA"
     }
   ],
   "masterServers": [
