@@ -2969,6 +2969,21 @@
       "has_valid_email": 0,
       "account_unvalidated": 0,
       "account_validation_status": "validated"
+    },
+    {
+      "name": "HENGKI TERNANDO",
+      "fname": "HENGKI TERNANDO",
+      "surname": "",
+      "country": "INDONESIA",
+      "callsign": "KH26ORI",
+      "city": "BARITO UTARA",
+      "radio_id": 1025240,
+      "id": 1025240,
+      "state": "KALIMANTAN TENGAH",
+      "has_valid_callsign": "1",
+      "has_valid_email": 0,
+      "account_unvalidated": 0,
+      "account_validation_status": "validated"
     }
   ]
 }
