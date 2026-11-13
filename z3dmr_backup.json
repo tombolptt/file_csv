@@ -1592,6 +1592,14 @@
       "city": "ADMIN. JAKARTA SELATAN",
       "state": "DKI JAKARTA",
       "country": "INDONESIA"
+    },
+    {
+      "dmrId": 1025240,
+      "callsign": "KH26ORI",
+      "name": "HENGKI TERNANDO",
+      "city": "BARITO UTARA",
+      "state": "KALIMANTAN TENGAH",
+      "country": "INDONESIA"
     }
   ],
   "masterServers": [
