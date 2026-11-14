@@ -1600,6 +1600,14 @@
       "city": "BARITO UTARA",
       "state": "KALIMANTAN TENGAH",
       "country": "INDONESIA"
+    },
+    {
+      "dmrId": 1025241,
+      "callsign": "AB26CTD",
+      "name": "CONTARDO",
+      "city": "SLEMAN",
+      "state": "DI YOGYAKARTA",
+      "country": "INDONESIA"
     }
   ],
   "masterServers": [
