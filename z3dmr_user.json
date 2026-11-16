@@ -2999,6 +2999,21 @@
       "has_valid_email": 0,
       "account_unvalidated": 0,
       "account_validation_status": "validated"
+    },
+    {
+      "name": "TEGUH SARWO AJI",
+      "fname": "TEGUH SARWO AJI",
+      "surname": "",
+      "country": "INDONESIA",
+      "callsign": "N26TSA",
+      "city": "PASURUAN",
+      "radio_id": 1025242,
+      "id": 1025242,
+      "state": "JAWA TIMUR",
+      "has_valid_callsign": "1",
+      "has_valid_email": 0,
+      "account_unvalidated": 0,
+      "account_validation_status": "validated"
     }
   ]
 }
