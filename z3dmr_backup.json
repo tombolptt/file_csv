@@ -1608,6 +1608,14 @@
       "city": "SLEMAN",
       "state": "DI YOGYAKARTA",
       "country": "INDONESIA"
+    },
+    {
+      "dmrId": 1025242,
+      "callsign": "N26TSA",
+      "name": "TEGUH SARWO AJI",
+      "city": "PASURUAN",
+      "state": "JAWA TIMUR",
+      "country": "INDONESIA"
     }
   ],
   "masterServers": [
