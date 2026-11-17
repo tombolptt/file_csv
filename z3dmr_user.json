@@ -3014,6 +3014,21 @@
       "has_valid_email": 0,
       "account_unvalidated": 0,
       "account_validation_status": "validated"
+    },
+    {
+      "name": "AGUS LESTARIYONO",
+      "fname": "AGUS LESTARIYONO",
+      "surname": "",
+      "country": "INDONESIA",
+      "callsign": "N26ALO",
+      "city": "PASURUAN",
+      "radio_id": 1025243,
+      "id": 1025243,
+      "state": "JAWA TIMUR",
+      "has_valid_callsign": "1",
+      "has_valid_email": 0,
+      "account_unvalidated": 0,
+      "account_validation_status": "validated"
     }
   ]
 }
