@@ -1616,6 +1616,14 @@
       "city": "PASURUAN",
       "state": "JAWA TIMUR",
       "country": "INDONESIA"
+    },
+    {
+      "dmrId": 1025243,
+      "callsign": "N26ALO",
+      "name": "AGUS LESTARIYONO",
+      "city": "PASURUAN",
+      "state": "JAWA TIMUR",
+      "country": "INDONESIA"
     }
   ],
   "masterServers": [
