@@ -1624,6 +1624,14 @@
       "city": "PASURUAN",
       "state": "JAWA TIMUR",
       "country": "INDONESIA"
+    },
+    {
+      "dmrId": 1025244,
+      "callsign": "AA26ASA",
+      "name": "REVANGGA KIA F",
+      "city": "MAGELANG",
+      "state": "JAWA TENGAH",
+      "country": "INDONESIA"
     }
   ],
   "masterServers": [
