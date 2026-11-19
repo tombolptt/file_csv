@@ -1632,6 +1632,14 @@
       "city": "MAGELANG",
       "state": "JAWA TENGAH",
       "country": "INDONESIA"
+    },
+    {
+      "dmrId": 1025245,
+      "callsign": "BG26LKA",
+      "name": "SUPRAYITNO",
+      "city": "PALEMBANG",
+      "state": "SUMATERA SELATAN",
+      "country": "INDONESIA"
     }
   ],
   "masterServers": [
