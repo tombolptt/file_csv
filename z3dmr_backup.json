@@ -1640,6 +1640,14 @@
       "city": "PALEMBANG",
       "state": "SUMATERA SELATAN",
       "country": "INDONESIA"
+    },
+    {
+      "dmrId": 1025246,
+      "callsign": "BG26NTK",
+      "name": "SUDIYONO",
+      "city": "MUSI RAWAS",
+      "state": "SUMATERA SELATAN",
+      "country": "INDONESIA"
     }
   ],
   "masterServers": [
