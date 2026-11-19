@@ -3029,6 +3029,21 @@
       "has_valid_email": 0,
       "account_unvalidated": 0,
       "account_validation_status": "validated"
+    },
+    {
+      "name": "REVANGGA KIA F",
+      "fname": "REVANGGA KIA F",
+      "surname": "",
+      "country": "INDONESIA",
+      "callsign": "AA26ASA",
+      "city": "MAGELANG",
+      "radio_id": 1025244,
+      "id": 1025244,
+      "state": "JAWA TENGAH",
+      "has_valid_callsign": "1",
+      "has_valid_email": 0,
+      "account_unvalidated": 0,
+      "account_validation_status": "validated"
     }
   ]
 }
