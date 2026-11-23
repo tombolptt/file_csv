@@ -1648,6 +1648,14 @@
       "city": "MUSI RAWAS",
       "state": "SUMATERA SELATAN",
       "country": "INDONESIA"
+    },
+    {
+      "dmrId": 1025247,
+      "callsign": "BH26CAF",
+      "name": "IWAN SETIAWAN",
+      "city": "TANJUNG JABUNG TIMUR",
+      "state": "JAMBI",
+      "country": "INDONESIA"
     }
   ],
   "masterServers": [
