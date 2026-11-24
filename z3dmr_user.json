@@ -3089,6 +3089,21 @@
       "has_valid_email": 0,
       "account_unvalidated": 0,
       "account_validation_status": "validated"
+    },
+    {
+      "name": "SUGENG WAHYONO",
+      "fname": "SUGENG WAHYONO",
+      "surname": "",
+      "country": "INDONESIA",
+      "callsign": "B26SGW",
+      "city": "ADMIN. JAKARTA BARAT",
+      "radio_id": 1025248,
+      "id": 1025248,
+      "state": "DKI JAKARTA",
+      "has_valid_callsign": "1",
+      "has_valid_email": 0,
+      "account_unvalidated": 0,
+      "account_validation_status": "validated"
     }
   ]
 }
