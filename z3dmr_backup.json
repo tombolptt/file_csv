@@ -1656,6 +1656,14 @@
       "city": "TANJUNG JABUNG TIMUR",
       "state": "JAMBI",
       "country": "INDONESIA"
+    },
+    {
+      "dmrId": 1025248,
+      "callsign": "B26SGW",
+      "name": "SUGENG WAHYONO",
+      "city": "ADMIN. JAKARTA BARAT",
+      "state": "DKI JAKARTA",
+      "country": "INDONESIA"
     }
   ],
   "masterServers": [
