@@ -3104,6 +3104,36 @@
       "has_valid_email": 0,
       "account_unvalidated": 0,
       "account_validation_status": "validated"
+    },
+    {
+      "name": "BARLIN HIMAWAN",
+      "fname": "BARLIN HIMAWAN",
+      "surname": "",
+      "country": "INDONESIA",
+      "callsign": "AA26XDN",
+      "city": "PURWOREJO",
+      "radio_id": 1025249,
+      "id": 1025249,
+      "state": "JAWA TENGAH",
+      "has_valid_callsign": "1",
+      "has_valid_email": 0,
+      "account_unvalidated": 0,
+      "account_validation_status": "validated"
+    },
+    {
+      "name": "TRI WAHYU",
+      "fname": "TRI WAHYU",
+      "surname": "",
+      "country": "INDONESIA",
+      "callsign": "AA26ITG",
+      "city": "PURWOREJO",
+      "radio_id": 1025250,
+      "id": 1025250,
+      "state": "JAWA TENGAH",
+      "has_valid_callsign": "1",
+      "has_valid_email": 0,
+      "account_unvalidated": 0,
+      "account_validation_status": "validated"
     }
   ]
 }
