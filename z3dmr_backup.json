@@ -1664,6 +1664,22 @@
       "city": "ADMIN. JAKARTA BARAT",
       "state": "DKI JAKARTA",
       "country": "INDONESIA"
+    },
+    {
+      "dmrId": 1025249,
+      "callsign": "AA26XDN",
+      "name": "BARLIN HIMAWAN",
+      "city": "PURWOREJO",
+      "state": "JAWA TENGAH",
+      "country": "INDONESIA"
+    },
+    {
+      "dmrId": 1025250,
+      "callsign": "AA26ITG",
+      "name": "TRI WAHYU",
+      "city": "PURWOREJO",
+      "state": "JAWA TENGAH",
+      "country": "INDONESIA"
     }
   ],
   "masterServers": [
