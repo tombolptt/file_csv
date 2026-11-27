@@ -1680,6 +1680,14 @@
       "city": "PURWOREJO",
       "state": "JAWA TENGAH",
       "country": "INDONESIA"
+    },
+    {
+      "dmrId": 1025251,
+      "callsign": "KU26AGM",
+      "name": "AGUS MASTIADI",
+      "city": "TARAKAN",
+      "state": "KALIMANTAN UTARA",
+      "country": "INDONESIA"
     }
   ],
   "masterServers": [
