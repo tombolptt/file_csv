@@ -3149,6 +3149,21 @@
       "has_valid_email": 0,
       "account_unvalidated": 0,
       "account_validation_status": "validated"
+    },
+    {
+      "name": "WARYONO",
+      "fname": "WARYONO",
+      "surname": "",
+      "country": "INDONESIA",
+      "callsign": "G26HBC",
+      "city": "TEGAL",
+      "radio_id": 1025252,
+      "id": 1025252,
+      "state": "JAWA TENGAH",
+      "has_valid_callsign": "1",
+      "has_valid_email": 0,
+      "account_unvalidated": 0,
+      "account_validation_status": "validated"
     }
   ]
 }
