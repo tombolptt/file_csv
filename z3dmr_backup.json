@@ -1688,6 +1688,14 @@
       "city": "TARAKAN",
       "state": "KALIMANTAN UTARA",
       "country": "INDONESIA"
+    },
+    {
+      "dmrId": 1025252,
+      "callsign": "G26HBC",
+      "name": "WARYONO",
+      "city": "TEGAL",
+      "state": "JAWA TENGAH",
+      "country": "INDONESIA"
     }
   ],
   "masterServers": [
